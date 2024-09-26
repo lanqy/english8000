@@ -1,0 +1,15 @@
+{
+  "name": "english800011",
+  "version": "1.0.0",
+  "description": "说出美国人的每一天英语会话8000句\r lrc 歌词\r # 中国纺织出版社\r 作者:郑杰\r 2017-01-01\r # MP3下载地址\r http://www.c-textilep.com/bookDetail?id=41955\r ![说出美国人的每一天英语会话8000句](cover8000.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bing-translate-api": "^4.0.2"
+  }
+}
