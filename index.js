@@ -74,8 +74,8 @@ function readDirectory(directory) {
 
     const filePath = join(directory, file);
     console.log("filePath", filePath);
-    if (filePath.indexOf("Public service") !== -1) {
-      console.log('filePath.indexOf("various")', filePath.indexOf("Public service"));
+    if (filePath.indexOf("Expressing Manner") !== -1) {
+      console.log('filePath.indexOf("various")', filePath.indexOf("Expressing Manner"));
       //   console.log('filePath', filePath)
       stat(filePath, async (err, stats) => {
         if (err) {
