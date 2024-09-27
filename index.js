@@ -68,12 +68,13 @@ async function readDirectory(directory) {
         const arr = [];
         // 将文本分割成数组
         const textArray = cleanedText.split("\n");
-        for (const item of textArray) {
+        for (let [index,item] of textArray.entries()) {
           const b = await translate(item.trim() || "");
           if (b) {
             arr.push({
               en: item.trim(),
               cn: b,
+              id: index + 1
             });
           }
         }
