@@ -1,0 +1,23 @@
+{
+  "word": "blog",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#24332\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">blog</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"在线日志\"，1998年，缩写自 <span class=\"foreign notranslate\">weblog</span>（该词从1993年开始被证明，但是指的是“包含 Web 服务器接收到的每个请求的详细记录的文件”），源自 <span class=\"foreign notranslate\">(World Wide)</span> <a href=\"/cn/word/web\" title=\"Etymology, meaning and definition of Web \" class=\"crossreference notranslate\">Web</a>（n.）+ <a href=\"/cn/word/log\" title=\"Etymology, meaning and definition of log \" class=\"crossreference notranslate\">log</a>（n.2）。<span class=\"foreign notranslate\">Joe Bloggs</span>（约1969年）是英国俚语，指“任何假设的人”（美国等价词为 <span class=\"foreign notranslate\">Joe Blow</span>）； 更早的 <span class=\"foreign notranslate\">blog</span> 在某个学院的住宅中指“仆人男孩”（约1860年，参见帕特里奇，他将这种用法描述为“对 <span class=\"foreign notranslate\">bloke</span> 的曲解”），作为动词时，指学童俚语中的“打败”。<span class=\"foreign notranslate\">Blogger</span> 在线出版服务于1999年推出。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "log<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.2)</div>",
+      "html": "<p>\"记录观察、读数等的记录\"，最初指的是\"记录船只进展的记录\"，1842年，水手缩写了 <i class=\"foreign notranslate\">log-book</i>（1670年代），即船只速度、进展等的日常记录，其来源于 <a title=\"Etymology, meaning and definition of log \" class=\"crossreference notranslate\" href=\"/cn/word/log\">log</a>（n.1）\"一块木头\"。这本书之所以被称为\"日志\"，是因为它记录了通过一根卷轴式 <i class=\"foreign notranslate\">log line</i>（通常为150至200个英寻）上的一块树木重物测量的速度。这个木头在水中静止不动，水手们计算出线播出所需的时间。线上标有不同数量的结，或者用彩色布条在规则间隔处系上，因此有了 <a title=\"Etymology, meaning and definition of knot \" class=\"crossreference notranslate\" href=\"/cn/word/knot\">knot</a>（n.）的航海测量意义。同源词的类似用法在欧洲日耳曼语和斯堪的纳维亚语中也有（例如德语 <i class=\"foreign notranslate\">Log</i>）。\"任何按顺序输入的事实记录\"的一般意义是在1913年之后出现的。</p><blockquote class=\"bq-origin\">It [the log-book] is a journal of all important items happening on shipboard, contains the data from which the navigator determines his position by dead-reckoning ... and is, when properly kept, a complete meteorological journal. On board merchant ships the log is kept by the first officer: on board men-of-war, by the navigator. [Century Dictionary, 1897]</blockquote><blockquote>它[日志]是船上发生的所有重要事项的日志，包含了航海员通过死算法确定自己位置的数据……并且，当正确记录时，它是一份完整的气象日志。在商船上，日志由第一官员记录； 在军舰上，由航海员记录。[世纪词典，1897年]</blockquote>"
+    },
+    {
+      "title": "web<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">webb</i> “编织织物，编织品，挂毯”，源自原始日耳曼语 <i class=\"foreign notranslate\">*wabjam</i> “织物，网”（源头还包括古撒克逊语 <i class=\"foreign notranslate\">webbi</i>，古诺尔斯语 <i class=\"foreign notranslate\">vefr</i>，荷兰语 <i class=\"foreign notranslate\">webbe</i>，古高地德语 <i class=\"foreign notranslate\">weppi</i>，德语 <i class=\"foreign notranslate\">gewebe</i> “网”），源自印欧语 <i class=\"foreign notranslate\">*(h)uebh-</i> “编织”（参见 <a title=\"Etymology, meaning and definition of weave \" class=\"crossreference notranslate\" href=\"/cn/word/weave\">weave</a>（v.））。</p><p>“蜘蛛网”的意思最早记录于13世纪初。1570年代开始应用于鸭子和其他水禽趾间的薄膜。互联网的意义来自1992年，缩写自 <i class=\"foreign notranslate\">World Wide Web</i>（1990年）。<i class=\"foreign notranslate\">Web browser</i>， <i class=\"foreign notranslate\">web page</i> 也都在1990年得到证实。</p>"
+    },
+    {
+      "title": "weblog<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1994年之前； 参见 <a title=\"Etymology, meaning and definition of blog \" class=\"crossreference notranslate\" href=\"/cn/word/blog\">blog</a>。</p>"
+    }
+  ]
+}

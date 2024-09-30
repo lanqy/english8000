@@ -1,0 +1,23 @@
+{
+  "word": "exposure",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#32797\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">exposure</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>大约1600年，“公开展览”，源自 <a title=\"Etymology, meaning and definition of expose \" class=\"crossreference notranslate\" href=\"/cn/word/expose\">expose</a>（动词）和 <a title=\"Etymology, meaning and definition of -ure \" class=\"crossreference notranslate\" href=\"/cn/word/-ure\">-ure</a>。关于太阳或天气的“情况”意义始于1660年代。摄影意义上的“曝光”始于1839年。1825年有 <i class=\"foreign notranslate\">Indecent exposure</i> 的记录。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "expose<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>15世纪初，“无庇护或防御地离开”，源自古法语 <i class=\"foreign notranslate\">esposer</i>， <i class=\"foreign notranslate\">exposer</i> “公开，阐述，表达观点，解释”（13世纪），源自拉丁语 <i class=\"foreign notranslate\">exponere</i> “阐述，公开，展示，揭示，出版”，源自 <i class=\"foreign notranslate\">ex</i> “从，向外”（见 <a title=\"Etymology, meaning and definition of ex- \" class=\"crossreference notranslate\" href=\"/cn/word/ex-\">ex-</a>) + <i class=\"foreign notranslate\">ponere</i> “放置，放置”（见 <a title=\"Etymology, meaning and definition of position \" class=\"crossreference notranslate\" href=\"/cn/word/position\">position</a>（n.））。在法语中与 <i class=\"foreign notranslate\">poser</i> “放置，放下”（见 <a title=\"Etymology, meaning and definition of pose \" class=\"crossreference notranslate\" href=\"/cn/word/pose\">pose</a>（v.1））混淆而改变。意思是“公开展示”来自1620年代； “揭露”是从1690年代开始的。摄影意义来自1839年。相关： <i class=\"foreign notranslate\">Exposed</i>； <i class=\"foreign notranslate\">exposes</i>； <i class=\"foreign notranslate\">exposing</i>。</p>"
+    },
+    {
+      "title": "overexposure<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>也称为 <i class=\"foreign notranslate\">over-exposure</i>，指“过度暴露； 过度曝光”，1834年用于指代女性服装中的裂口； 1855年用于摄影，由 <a title=\"Etymology, meaning and definition of over- \" class=\"crossreference notranslate\" href=\"/cn/word/over-\">over-</a> 和 <a title=\"Etymology, meaning and definition of exposure \" class=\"crossreference notranslate\" href=\"/cn/word/exposure\">exposure</a> 组成。引申义，用于指代名人时，始见于1969年。</p>"
+    },
+    {
+      "title": "-ure<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>此后缀用于构成动作的抽象名词，源自古法语 <i class=\"foreign notranslate\">-ure</i>，源自拉丁语 <i class=\"foreign notranslate\">-ura</i>，是表示职业或结果的女性名词后缀。</p>"
+    }
+  ]
+}

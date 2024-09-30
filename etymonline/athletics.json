@@ -1,0 +1,23 @@
+{
+  "word": "athletics",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#41843\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">athletics</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"运动会或锻炼的艺术或实践\"，大约出现于1730年，源于 <a title=\"Etymology, meaning and definition of athletic \" class=\"crossreference notranslate\" href=\"/cn/word/athletic\">athletic</a>； 也可参见 <a title=\"Etymology, meaning and definition of -ics \" class=\"crossreference notranslate\" href=\"/cn/word/-ics\">-ics</a>。可能模仿了 <i class=\"foreign notranslate\"><a href=\"/cn/word/gymnastics\" title=\"Etymology, meaning and definition of gymnastics \" class=\"crossreference notranslate\">gymnastics</a></i> 的模式而形成。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "athletic<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1630年代（<i class=\"foreign notranslate\">athletical</i> 来自1590年代），“与运动员或身体力量比赛有关的”，源自拉丁语 <i class=\"foreign notranslate\">athleticus</i>，来自希腊语 <i class=\"foreign notranslate\">athletikos</i>，源自 <i class=\"foreign notranslate\">athlētēs</i> “比赛选手”（见 <a title=\"Etymology, meaning and definition of athlete \" class=\"crossreference notranslate\" href=\"/cn/word/athlete\">athlete</a>）。 “身体强壮的; 有活力的; 健壮的”（由约翰逊定义，拼写为 <i class=\"foreign notranslate\">athletick</i>）的含义始于1650年代。</p>"
+    },
+    {
+      "title": "gymnastics<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1650年代，来自 <a title=\"Etymology, meaning and definition of gymnastic \" class=\"crossreference notranslate\" href=\"/cn/word/gymnastic\">gymnastic</a>； 还可参见 <a title=\"Etymology, meaning and definition of -ics \" class=\"crossreference notranslate\" href=\"/cn/word/-ics\">-ics</a>。</p>"
+    },
+    {
+      "title": "-ics<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>在科学或学科的名称中（<i class=\"foreign notranslate\">acoustics</i>， <i class=\"foreign notranslate\">aerobics</i>， <i class=\"foreign notranslate\">economics</i> 等），这是16世纪恢复了古代的习惯，使用希腊形容词的中性复数与表示“与...相关”的希腊词根 <i class=\"foreign notranslate\">-ikos</i>（见 <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>）一起使用，表示“与...相关的事物”，也用作关于这些事物的论文的标题。然而，在1500年前获得英文名称的主题往往是单数形式的（<i class=\"foreign notranslate\">arithmetic</i>， <i class=\"foreign notranslate\">logic</i>， <i class=\"foreign notranslate\">magic</i>， <i class=\"foreign notranslate\">music</i>， <i class=\"foreign notranslate\">rhetoric</i>）。在 <i class=\"foreign notranslate\">-ics</i>（<i class=\"foreign notranslate\">mathematics is</i>/<i class=\"foreign notranslate\">mathematics are</i>）中的词的语法数量是一个混乱的问题。</p>"
+    }
+  ]
+}

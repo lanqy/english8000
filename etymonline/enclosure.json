@@ -1,0 +1,23 @@
+{
+  "word": "enclosure",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#32454\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">enclosure</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪中期，“封闭的行动”，来自 <a title=\"Etymology, meaning and definition of enclose \" class=\"crossreference notranslate\" href=\"/cn/word/enclose\">enclose</a> 和 <a title=\"Etymology, meaning and definition of -ure \" class=\"crossreference notranslate\" href=\"/cn/word/-ure\">-ure</a>。意思是“被封闭的东西”，始于1550年代。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "enclose<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>enclosen，意为“用墙、栅栏或其他屏障包围（一块地、一座城镇、一座建筑等）”，早在14世纪就出现了，源自 <a title=\"Etymology, meaning and definition of en- \" class=\"crossreference notranslate\" href=\"/cn/word/en-\">en-</a>（1）+ <a title=\"Etymology, meaning and definition of close \" class=\"crossreference notranslate\" href=\"/cn/word/close\">close</a>（v.），部分源自古法语 <i class=\"foreign notranslate\">enclos</i>，过去分词形式为 <i class=\"foreign notranslate\">enclore</i>，意为“包围； 限制； 包含”。具体指“用围墙将荒地或公共土地围起来以便耕种或分给私人所有”始于大约1500年。意为“将文件与信一起放入信封中传递”的含义始于1707年。相关词汇： <i class=\"foreign notranslate\">Enclosed</i>； <i class=\"foreign notranslate\">enclosing</i>。</p>"
+    },
+    {
+      "title": "inclosure<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>在一些法律用途中保留的 <a title=\"Etymology, meaning and definition of enclosure \" class=\"crossreference notranslate\" href=\"/cn/word/enclosure\">enclosure</a> 的变体。相关词汇： <i class=\"foreign notranslate\">Inclosure</i>。</p>"
+    },
+    {
+      "title": "-ure<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>此后缀用于构成动作的抽象名词，源自古法语 <i class=\"foreign notranslate\">-ure</i>，源自拉丁语 <i class=\"foreign notranslate\">-ura</i>，是表示职业或结果的女性名词后缀。</p>"
+    }
+  ]
+}

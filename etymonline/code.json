@@ -1,0 +1,23 @@
+{
+  "word": "code",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#15772\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">code</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>公元1300年左右，\"法律的系统化编纂\"，源自古法语 <span class=\"foreign notranslate\">code</span> \"法律体系，法律书\"（13世纪），源自拉丁语 <span class=\"foreign notranslate\">codex </span> \"法律的系统分类\"，更早的是 <span class=\"foreign notranslate\">caudex</span> \"书\"，字面意思是\"树干\"，因此指用木板涂蜡写字的书。德·瓦恩通过原意为 <span class=\"foreign notranslate\">*kaud-ek-</span> 的原意追溯到原始意大利语 <span class=\"foreign notranslate\">*kehu-d- \"</span> \"分离，分割\"，他还将其视为 <span class=\"foreign notranslate\">cauda</span> \"尾巴\"的词根（参见 <a href=\"/cn/word/coda\" title=\"Etymology, meaning and definition of coda \" class=\"crossreference notranslate\">coda</a>）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>意思是\"密码，信号系统及其使用规则\"（<i class=\"foreign notranslate\">secret code</i> 中的意思）始于1808年。<i class=\"foreign notranslate\">Code-name</i> 始于1879年（在电报中）。\"以一种计算机可用的形式表达信息和指令的系统\"的意思始于1946年。</p>"
+    },
+    {
+      "title": "<h2 id=\"#46732\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">code<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>“将…编码”，1815年，源自 <a title=\"Etymology, meaning and definition of code \" class=\"crossreference notranslate\" href=\"/cn/word/code\">code</a>（n.）。具体指“将…编写成计算机代码”始于1947年。不及物动词“编写计算机代码”始于1987年。相关词汇： <i class=\"foreign notranslate\">Coded</i>； <i class=\"foreign notranslate\">coding</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "coda<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1753年，指“为了将音乐作品引向结尾而添加的乐段”，源自拉丁语 <i class=\"foreign notranslate\">cauda</i>，意为“动物的尾巴”，其起源不确定。德·范将其追溯到原意为“部分； 尾巴”的原意意大利语 <i class=\"foreign notranslate\">*kaud-a-</i>，源自 PIE <i class=\"foreign notranslate\">*kehu-d-</i>，“分离，分开”，源自词根 <i class=\"foreign notranslate\">*khu-</i>。他写道：“由于‘部分，部分’的词汇通常源自‘切割，分裂’，因此尾巴可能被称为动物的松散‘部分’。”</p>"
+    },
+    {
+      "title": "codex<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“手稿卷轴（尤指古代手稿）”，1845年，源自拉丁语 <i class=\"foreign notranslate\">codex</i> “书籍”（参见 <a title=\"Etymology, meaning and definition of code \" class=\"crossreference notranslate\" href=\"/cn/word/code\">code</a>（n.））。相关词： <i class=\"foreign notranslate\">Codical</i>。</p>"
+    }
+  ]
+}

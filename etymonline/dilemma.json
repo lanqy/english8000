@@ -1,0 +1,23 @@
+{
+  "word": "dilemma",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#8575\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">dilemma</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1520年代在修辞学中使用（见下文），源自于拉丁语 <span class=\"foreign notranslate\">dilemma</span>，来自希腊语 <span class=\"foreign notranslate\">dilemma</span> “双重命题”，是修辞学中的一个技术术语，由 <span class=\"foreign notranslate\">di-</span> “两个”（参见 <a href=\"/cn/word/di-\" title=\"Etymology, meaning and definition of di- \" class=\"crossreference notranslate\">di-</a>（1））和 <span class=\"foreign notranslate\">lemma</span> “前提，接受或采取的任何事物”组成，源自 <span class=\"foreign notranslate\">lambanein</span> “取”（参见 <a href=\"/cn/word/lemma\" title=\"Etymology, meaning and definition of lemma \" class=\"crossreference notranslate\">lemma</a>）的词根。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><blockquote class=\"bq-origin\">A form of argument in which it is shown that whoever maintains a certain proposition must accept one or other of two alternative conclusions, and that each of these involves the denial of the proposition in question. [Century Dictionary]</blockquote><blockquote>一种论证形式，其中表明维护某个命题的人必须接受两个替代结论中的一个，而每个结论都涉及否定所讨论的命题。[世纪词典]</blockquote><p>泛指“在两个不利的选择之间做出选择”，始于1580年代。它只应用于某人被迫在两个对他都不利的选择之间做出选择的情况（这些选择被称为 <i class=\"foreign notranslate\">horns of a dilemma</i>）。但是，即使逻辑学家也无法就某些情况是困境还是仅仅是演绎法达成一致。相关： <i class=\"foreign notranslate\">Dilemmatic</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "lemma<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1560年代，数学上，源自希腊语 <i class=\"foreign notranslate\">lemma</i>（复数 <i class=\"foreign notranslate\">lemmata</i>）“接收或取得的东西； 论据； 被视为理所当然的事物”，源自 <i class=\"foreign notranslate\">lambanein</i> “取得”的词根，源自 PIE 词根 <i class=\"foreign notranslate\">*(s)lagw-</i> “抓住，取得”（源自梵语 <i class=\"foreign notranslate\">labhate</i>， <i class=\"foreign notranslate\">rabhate</i> “抓住”； 古英语 <i class=\"foreign notranslate\">læccan</i> “抓住，抓住”； 希腊语 <i class=\"foreign notranslate\">lazomai</i> “我拿，抓住”； 古教会斯拉夫语 <i class=\"foreign notranslate\">leca</i> “捕捉，陷阱”； 立陶宛语 <i class=\"foreign notranslate\">lobis</i> “财产，财富”）。相关： <i class=\"foreign notranslate\">Lemmatical</i>。</p>"
+    },
+    {
+      "title": "trilemma<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1670年代，来自 <a title=\"Etymology, meaning and definition of dilemma \" class=\"crossreference notranslate\" href=\"/cn/word/dilemma\">dilemma</a> 和 <a title=\"Etymology, meaning and definition of tri- \" class=\"crossreference notranslate\" href=\"/cn/word/tri-\">tri-</a>。</p>"
+    },
+    {
+      "title": "di-<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(1)</div>",
+      "html": "<p>这是一个源自希腊的词根，用于表示“二、双、两倍、两个”的含义，来自希腊词  <i class=\"foreign notranslate\">di-</i>，是  <i class=\"foreign notranslate\">dis</i> 的缩写，意为“两次”，与  <i class=\"foreign notranslate\">duo</i> 的“两个”有关，与  <a title=\"Etymology, meaning and definition of bi- \" class=\"crossreference notranslate\" href=\"/cn/word/bi-\">bi-</a> 同源，源于 PIE 根  <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *dwo- \" class=\"crossreference notranslate\" href=\"/cn/word/*dwo-\">*dwo-</a> 中的“两个”概念。在化学中，它表示某个分子中有两个元素或基团。</p>"
+    }
+  ]
+}

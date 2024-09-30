@@ -1,0 +1,23 @@
+{
+  "word": "funeral",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#14254\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">funeral</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"埋葬死者的仪式\"，1510年代，可能缩写自 <i class=\"foreign notranslate\">funeral service</i> 等，源自 <a title=\"Etymology, meaning and definition of funeral \" class=\"crossreference notranslate\" href=\"/cn/word/funeral\">funeral</a>（形容词）。</p>"
+    },
+    {
+      "title": "<h2 id=\"#50769\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">funeral<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></h2>",
+      "html": "<p>14世纪晚期，“与死者的埋葬有关的”，15世纪中期，来自中世纪拉丁语 <i class=\"foreign notranslate\">funeralia</i> “葬礼仪式”，最初是晚期拉丁语中性复数 <i class=\"foreign notranslate\">funeralis</i> “与葬礼有关的”，来自拉丁语 <i class=\"foreign notranslate\">funus</i>（属格 <i class=\"foreign notranslate\">funeris</i>）“葬礼，葬礼队伍，埋葬仪式； 死亡，尸体”，这个词的起源不确定，可能最终来自 PIE 词根 <i class=\"foreign notranslate\">*dheu-</i>（3）“死亡”。在英语中，单数和复数可以互换使用，直到大约1700年。在伊丽莎白时代，也是一个动词，“哀悼”（及物动词）。古典拉丁语形容词是 <i class=\"foreign notranslate\">funebris</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "funebrial<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>大约于1600年，“<a title=\"Etymology, meaning and definition of -al \" class=\"crossreference notranslate\" href=\"/cn/word/-al\">-al</a>”(1) 与拉丁语“<i class=\"foreign notranslate\">funebris</i>”合并，“<i class=\"foreign notranslate\">funebris</i>”意为“关于或与葬礼有关”，源自“<i class=\"foreign notranslate\">funer-</i>”，是“<i class=\"foreign notranslate\">funus</i>”（详见 <a title=\"Etymology, meaning and definition of funeral \" class=\"crossreference notranslate\" href=\"/cn/word/funeral\">funeral</a> 形容词）的词干。</p>"
+    },
+    {
+      "title": "funerary<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"有关葬礼或埋葬的\"，来自1690年代的晚期拉丁语词汇 <i class=\"foreign notranslate\">funerarius</i>，源于 <i class=\"foreign notranslate\">funer-</i>，即 <i class=\"foreign notranslate\">funus</i> 的词干 \"a funeral\"（参见 <a title=\"Etymology, meaning and definition of funeral \" class=\"crossreference notranslate\" href=\"/cn/word/funeral#etymonline_v_50769\">funeral</a> (adj.)）。</p>"
+    }
+  ]
+}

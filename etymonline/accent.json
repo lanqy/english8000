@@ -1,0 +1,23 @@
+{
+  "word": "accent",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#107\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">accent</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>14世纪晚期，“特定的发音方式”，来自古法语 <span class=\"foreign notranslate\">acent</span> “口音”（13世纪），源自拉丁语 <span class=\"foreign notranslate\">accentus</span> “添加到语言中的歌曲”，来自 <span class=\"foreign notranslate\">ad</span> “到”（见 <a href=\"/cn/word/ad-\" title=\"Etymology, meaning and definition of ad- \" class=\"crossreference notranslate\">ad-</a>）+ <span class=\"foreign notranslate\">cantus</span> “一首歌”，过去分词形式为 <span class=\"foreign notranslate\">canere</span> “唱歌”（来自 PIE 词根 <a href=\"/cn/word/*kan-\" title=\"Etymology, meaning and definition of *kan- \" rel=\"nofollow\" class=\"crossreference notranslate\">*kan-</a> “唱歌”）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>拉丁语单词是希腊语 <i class=\"foreign notranslate\">prosōidia</i> 的借译，来自 <i class=\"foreign notranslate\">pros-</i> “到”+ <i class=\"foreign notranslate\">ōidē</i> “歌曲”，显然描述了希腊诗歌中的音高方案。</p><p>“努力发音，使一个音节在音高或重音上比另一个音节更强”的意义可追溯至1580年代； 作为“用于书写的标记或字符，表示重音”的意义，记录于1590年代。装饰艺术中“强调或突出某物”的意义始于1972年。</p><blockquote class=\"bq-origin\">The soundest distinction perhaps is that \"accent\" refers to the habitual stress laid on a syllable in ordinary pronunciation ; \"stress\" to a syllable specially accented for this or that reason, logical, rhetorical, or prosodic purely. [George Saintsbury, \"Historical Manual of English Prosody,\" 1914]</blockquote><blockquote>最可靠的区别或许是，“口音”指的是在普通发音中习惯性强调的音节； “重音”指的是因逻辑、修辞或韵律等原因而特别强调的音节。[乔治·圣茨伯里，《英语韵律的历史手册》，1914年]</blockquote>"
+    },
+    {
+      "title": "<h2 id=\"#40077\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">accent<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>“pronounce with accent or stress”，1520年代，源自法语 <i class=\"foreign notranslate\">accenter</i>，源自古法语 <i class=\"foreign notranslate\">acenter</i> “强调，重音”，源自 <i class=\"foreign notranslate\">acent</i>（见 <a title=\"Etymology, meaning and definition of accent \" class=\"crossreference notranslate\" href=\"/cn/word/accent\">accent</a>（n.））。“用重音符号标记”一词来源于1660年代（隐含在 <i class=\"foreign notranslate\">accented</i> 中）； “强调标记”比喻意义在1650年代之前。相关： <i class=\"foreign notranslate\">Accenting</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "accentual<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"与重音有关的\"，大约在1600年，来自拉丁语 <i class=\"foreign notranslate\">accentus</i>（参见 <a title=\"Etymology, meaning and definition of accent \" class=\"crossreference notranslate\" href=\"/cn/word/accent\">accent</a>（n.））+ <a title=\"Etymology, meaning and definition of -al \" class=\"crossreference notranslate\" href=\"/cn/word/-al\">-al</a>（1）。相关词汇： <i class=\"foreign notranslate\">Accentually</i>； <i class=\"foreign notranslate\">accentuality</i>。</p>"
+    },
+    {
+      "title": "unaccented<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1590年代，来自 <a title=\"Etymology, meaning and definition of un- \" class=\"crossreference notranslate\" href=\"/cn/word/un-\">un-</a>（1）“不”和 <a title=\"Etymology, meaning and definition of accent \" class=\"crossreference notranslate\" href=\"/cn/word/accent\">accent</a>（v.）的过去分词。</p>"
+    }
+  ]
+}

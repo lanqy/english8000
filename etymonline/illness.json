@@ -1,0 +1,23 @@
+{
+  "word": "illness",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#34449\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">illness</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"疾病，病症，疾患，病痛\"，来自于 <a title=\"Etymology, meaning and definition of ill \" class=\"crossreference notranslate\" href=\"/cn/word/ill\">ill</a>（形容词）+ <a title=\"Etymology, meaning and definition of -ness \" class=\"crossreference notranslate\" href=\"/cn/word/-ness\">-ness</a>。早期它的意思是“不良的道德品质”（约1500年）。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "ill<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>约在1200年，指“道德上的邪恶； 令人反感的，不受欢迎的”（其他13世纪的意义是“恶意的，有害的，不幸的，困难的”），来自古诺尔斯语 <i class=\"foreign notranslate\">illr</i> “邪恶的，坏的； 艰难的，困难的； 卑鄙的，吝啬的”，这是一个起源不明的词。不认为与 <a title=\"Etymology, meaning and definition of evil \" class=\"crossreference notranslate\" href=\"/cn/word/evil\">evil</a> 有关。从14世纪中叶开始，“带有邪恶意图的； 有害的，有害的。”“生病的，不健康的，有病的”这个意义最早记录于15世纪中叶，可能来自于古诺尔斯语习语“对我来说很糟糕”。俚语中“非常好，酷”的倒置意义是在1980年代出现的。</p>"
+    },
+    {
+      "title": "sickness<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"生病或患病的状态\"，中古英语 <i class=\"foreign notranslate\">siknesse</i>，源自古英语 <i class=\"foreign notranslate\">seocnes</i> \"疾病，病症\"，参见 <a title=\"Etymology, meaning and definition of sick \" class=\"crossreference notranslate\" href=\"/cn/word/sick\">sick</a>（形容词）和 <a title=\"Etymology, meaning and definition of -ness \" class=\"crossreference notranslate\" href=\"/cn/word/-ness\">-ness</a>。它曾经与 <a title=\"Etymology, meaning and definition of illness \" class=\"crossreference notranslate\" href=\"/cn/word/illness\">illness</a> 同义； 在19世纪后期， <i class=\"foreign notranslate\">sickness</i> 开始被限制为恶心和其他胃部不适，留下 <i class=\"foreign notranslate\">illness</i> 作为“一个更加优雅和不太明确的术语”[世纪词典]。</p>"
+    },
+    {
+      "title": "-ness<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>这是一个词缀，表示动作、品质或状态，附加在形容词或过去分词上，形成抽象名词，源自古英语 <i class=\"foreign notranslate\">-nes(s)</i>，来自原始日耳曼语 <i class=\"foreign notranslate\">*in-assu-</i>（同源词：古撒克逊语 <i class=\"foreign notranslate\">-nissi</i>，中古荷兰语 <i class=\"foreign notranslate\">-nisse</i>，荷兰语 <i class=\"foreign notranslate\">-nis</i>，古高地德语 <i class=\"foreign notranslate\">-nissa</i>，德语 <i class=\"foreign notranslate\">-nis</i>，哥特语 <i class=\"foreign notranslate\">-inassus</i>），来自 <i class=\"foreign notranslate\">*-in-</i>，最初属于名词词干，+ <i class=\"foreign notranslate\">*-assu-</i>，抽象名词后缀，可能源自与拉丁语 <i class=\"foreign notranslate\">-tudo</i> 相同的词根（见 <a title=\"Etymology, meaning and definition of -tude \" class=\"crossreference notranslate\" href=\"/cn/word/-tude\">-tude</a>）。</p>"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "electronic",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#32275\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">electronic</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>1901年，\"与电子有关的\"； 见 <a title=\"Etymology, meaning and definition of electron \" class=\"crossreference notranslate\" href=\"/cn/word/electron\">electron</a> + <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>； 1930年作为\"与 <a title=\"Etymology, meaning and definition of electronics \" class=\"crossreference notranslate\" href=\"/cn/word/electronics\">electronics</a> 有关的\"。相关词汇： <i class=\"foreign notranslate\">Electronically</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "electron<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“静电和量子的基本单位”，即 <a title=\"Etymology, meaning and definition of electric \" class=\"crossreference notranslate\" href=\"/cn/word/electric\">electric</a> 和 <i class=\"foreign notranslate\">-on</i> 的组合一词于1891年由爱尔兰物理学家乔治·斯通尼（George J. Stoney）（1826-1911年）创造，如 <a title=\"Etymology, meaning and definition of ion \" class=\"crossreference notranslate\" href=\"/cn/word/ion\">ion</a>（参见相关文献）所述。1932年， <i class=\"foreign notranslate\">Electron microscope</i> 将其翻译成了德语 <i class=\"foreign notranslate\">Elektronenmikroskop</i>。</p>"
+    },
+    {
+      "title": "electronics<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1910年，来自 <a title=\"Etymology, meaning and definition of electronic \" class=\"crossreference notranslate\" href=\"/cn/word/electronic\">electronic</a>； 还可参见 <a title=\"Etymology, meaning and definition of -ics \" class=\"crossreference notranslate\" href=\"/cn/word/-ics\">-ics</a>。研究电子在真空、气体、半导体等中的行为科学。</p>"
+    }
+  ]
+}

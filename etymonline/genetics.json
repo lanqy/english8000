@@ -1,0 +1,23 @@
+{
+  "word": "genetics",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#33594\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">genetics</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1872年，“起源的法则”； 见 <a title=\"Etymology, meaning and definition of genetic \" class=\"crossreference notranslate\" href=\"/cn/word/genetic\">genetic</a> + <a title=\"Etymology, meaning and definition of -ics \" class=\"crossreference notranslate\" href=\"/cn/word/-ics\">-ics</a>。这是英国生物学家威廉·贝茨（William Bateson，1861-1926）的创造。 “遗传学研究”一词始于1891年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "genetic<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1831年，“相关起源的”，由卡莱尔创造，仿佛来自希腊  <i class=\"foreign notranslate\">genetikos</i>，源自  <i class=\"foreign notranslate\">genesis</i>  “起源”（见  <a title=\"Etymology, meaning and definition of genesis \" class=\"crossreference notranslate\" href=\"/cn/word/genesis\">genesis</a> ）。达尔文在生物学上将其用作“由共同起源导致的”（1859年）； 现代“与基因或遗传有关的”的意义来自于1908年（见  <a title=\"Etymology, meaning and definition of gene \" class=\"crossreference notranslate\" href=\"/cn/word/gene\">gene</a> ）。相关词汇： <i class=\"foreign notranslate\">Genetically</i> 。1650年代已有“与起源有关的”的意思，即  <i class=\"foreign notranslate\">Genetical</i> 。</p>"
+    },
+    {
+      "title": "geneticist<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1912年，由 <a title=\"Etymology, meaning and definition of genetics \" class=\"crossreference notranslate\" href=\"/cn/word/genetics\">genetics</a> 和 <a title=\"Etymology, meaning and definition of -ist \" class=\"crossreference notranslate\" href=\"/cn/word/-ist\">-ist</a> 组成。</p>"
+    },
+    {
+      "title": "-ics<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>在科学或学科的名称中（<i class=\"foreign notranslate\">acoustics</i>， <i class=\"foreign notranslate\">aerobics</i>， <i class=\"foreign notranslate\">economics</i> 等），这是16世纪恢复了古代的习惯，使用希腊形容词的中性复数与表示“与...相关”的希腊词根 <i class=\"foreign notranslate\">-ikos</i>（见 <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>）一起使用，表示“与...相关的事物”，也用作关于这些事物的论文的标题。然而，在1500年前获得英文名称的主题往往是单数形式的（<i class=\"foreign notranslate\">arithmetic</i>， <i class=\"foreign notranslate\">logic</i>， <i class=\"foreign notranslate\">magic</i>， <i class=\"foreign notranslate\">music</i>， <i class=\"foreign notranslate\">rhetoric</i>）。在 <i class=\"foreign notranslate\">-ics</i>（<i class=\"foreign notranslate\">mathematics is</i>/<i class=\"foreign notranslate\">mathematics are</i>）中的词的语法数量是一个混乱的问题。</p>"
+    }
+  ]
+}

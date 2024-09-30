@@ -1,0 +1,19 @@
+{
+  "word": "harmful",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#34160\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">harmful</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>14世纪中叶，源自 <a title=\"Etymology, meaning and definition of harm \" class=\"crossreference notranslate\" href=\"/cn/word/harm\">harm</a>（名词）+ <a title=\"Etymology, meaning and definition of -ful \" class=\"crossreference notranslate\" href=\"/cn/word/-ful\">-ful</a>。相关词汇： <i class=\"foreign notranslate\">Harmfully</i>。古英语中有 <i class=\"foreign notranslate\">hearmful</i>，但现代词汇可能是中古英语的构词。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "harm<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">hearm</i> “伤害，痛苦； 邪恶，悲伤； 侮辱”，源自原始日耳曼语 <i class=\"foreign notranslate\">*harmaz</i>（也指古撒克逊语 <i class=\"foreign notranslate\">harm</i>，古诺尔斯语 <i class=\"foreign notranslate\">harmr</i> “悲伤，悲痛”，古弗里斯兰语 <i class=\"foreign notranslate\">herm</i> “侮辱； 疼痛”，古高地德语 <i class=\"foreign notranslate\">harm</i>，德语 <i class=\"foreign notranslate\">Harm</i> “悲伤，悲痛，伤害”），源自原始印欧语 <i class=\"foreign notranslate\">*kormo-</i> “疼痛”。处于 <i class=\"foreign notranslate\">in harm's way</i> 的危险中，始于1660年代。</p>"
+    },
+    {
+      "title": "-ful<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>词根元素附加在名词（以及现代英语中的动词词干）上，表示“充满，具有，以...为特征”，还表示“容纳的数量或体积”（<i class=\"foreign notranslate\">handful</i>， <i class=\"foreign notranslate\">bellyful</i>）； 源自古英语 <i class=\"foreign notranslate\">-full</i>， <i class=\"foreign notranslate\">-ful</i>，它是 <a title=\"Etymology, meaning and definition of full \" class=\"crossreference notranslate\" href=\"/cn/word/full\">full</a>（形容词）通过与前面的名词合并而成为后缀，但最初是一个独立的词。与德语 <i class=\"foreign notranslate\">-voll</i>，古诺尔斯语 <i class=\"foreign notranslate\">-fullr</i>，丹麦语 <i class=\"foreign notranslate\">-fuld</i> 同源。大多数英语 <i class=\"foreign notranslate\">-ful</i> 形容词在某个时候既有被动（“充满 x”）又有主动（“引起 x； 充满 x 的机会”）的意义。</p><p>在古英语和中古英语中很少见，更常见的是将 <i class=\"foreign notranslate\">full</i> 附加在词的开头（例如古英语 <i class=\"foreign notranslate\">fulbrecan</i> “违反”， <i class=\"foreign notranslate\">fulslean</i> “直接杀死”， <i class=\"foreign notranslate\">fulripod</i> “成熟”； 中古英语有 <i class=\"foreign notranslate\">ful-comen</i> “达到（一种状态），实现（一种真理）”， <i class=\"foreign notranslate\">ful-lasting</i> “耐久性”， <i class=\"foreign notranslate\">ful-thriven</i> “完整，完美”等）。</p>"
+    }
+  ]
+}

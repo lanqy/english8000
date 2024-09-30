@@ -1,0 +1,27 @@
+{
+  "word": "alternate",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#10927\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">alternate</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>\"交替的，相互的\"，来自1510年代的拉丁语 <span class=\"foreign notranslate\">alternatus</span>，意为\"一个接一个地\"，是 <span class=\"foreign notranslate\">alternare</span> 的过去分词，意为\"先做一件事，然后做另一件事； 交换部分\"，来自 <span class=\"foreign notranslate\">alternus</span>，意为\"一个接一个地，交替的，轮流的，相互的\"，来自 <span class=\"foreign notranslate\">alter</span>（见 <a href=\"/cn/word/alter\" title=\"Etymology, meaning and definition of alter \" class=\"crossreference notranslate\">alter</a>）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p><i class=\"foreign notranslate\"><strong>Alternate</strong></i> 的意思是\"轮流\"； <a title=\"Etymology, meaning and definition of alternative \" class=\"crossreference notranslate\" href=\"/cn/word/alternative\">alternative</a> 的意思是\"提供选择\"。两者都意味着两种或两件事物。<i class=\"foreign notranslate\">Alternation</i> 是两件事物交替地按顺序进行的过程（如昼夜）； <i class=\"foreign notranslate\">alternative</i> 是两种选择中的一种，接受其中一种意味着拒绝另一种。相关词汇： <i class=\"foreign notranslate\">Alternacy</i>。</p>"
+    },
+    {
+      "title": "<h2 id=\"#40976\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">alternate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1590年代，“轮流做”（及物动词），源自拉丁语 <i class=\"foreign notranslate\">alternatus</i>，是 <i class=\"foreign notranslate\">alternare</i> 的过去分词，“一会儿做这个，一会儿做那个，轮流做”，源自 <i class=\"foreign notranslate\">alternus</i>，“一个接一个，轮流，相互的”，源自 <i class=\"foreign notranslate\">alter</i> “另一个”（参见 <a title=\"Etymology, meaning and definition of alter \" class=\"crossreference notranslate\" href=\"/cn/word/alter\">alter</a>）。取代了中古英语 <i class=\"foreign notranslate\">alternen</i> “变化，轮流”（15世纪早期）。交替使用的意思始于1850年； 不及物动词的意思“在时间或地点上相互跟随”始于大约1700年； “在行动、状态等之间来回传递”是在1823年之前。相关： <i class=\"foreign notranslate\">Alternated</i>； <a title=\"Etymology, meaning and definition of alternating \" class=\"crossreference notranslate\" href=\"/cn/word/alternating\">alternating</a>。</p>"
+    },
+    {
+      "title": "<h2 id=\"#40977\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">alternate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></h2>",
+      "html": "<p>1718年，\"与其他事物交替的东西\"，来自 <a title=\"Etymology, meaning and definition of alternate \" class=\"crossreference notranslate\" href=\"/cn/word/alternate\">alternate</a>（形容词）。\"代替品，被授权代替他人的人\"，尤其是在政治机构中，首次被证明是在1848年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "alter<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>14世纪晚期，“改变（某事物），以某种方式使其不同”，源自古法语 <i class=\"foreign notranslate\">alterer</i> “改变，变更”，源自中世纪拉丁语 <i class=\"foreign notranslate\">alterare</i> “改变”，源自拉丁语 <i class=\"foreign notranslate\">alter</i> “另一个（两者中的另一个）”，源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *al- \" class=\"crossreference notranslate\" href=\"/cn/word/*al-\">*al-</a>（1）“超越”+比较后缀 <i class=\"foreign notranslate\">-ter</i>（如 <a title=\"Etymology, meaning and definition of other \" class=\"crossreference notranslate\" href=\"/cn/word/other\">other</a>）。不及物动词“变得不同”首次记录于1580年代。相关： <i class=\"foreign notranslate\">Altered</i>； <i class=\"foreign notranslate\">altering</i>。</p>"
+    },
+    {
+      "title": "alternating<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1550年代，“轮流发生或行动，一个接一个的”，现在分词形容词来自 <a title=\"Etymology, meaning and definition of alternate \" class=\"crossreference notranslate\" href=\"/cn/word/alternate\">alternate</a>（v.）。电学 <i class=\"foreign notranslate\"><strong>alternating current</strong></i> 记录于1839年，是一种电流，它在不间断地交替流动。</p>"
+    }
+  ]
+}

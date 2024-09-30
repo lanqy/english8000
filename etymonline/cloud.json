@@ -1,0 +1,23 @@
+{
+  "word": "cloud",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#13846\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">cloud</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">clud</i> “岩石堆，山丘”，与 <a title=\"Etymology, meaning and definition of clod \" class=\"crossreference notranslate\" href=\"/cn/word/clod\">clod</a> 相关。</p><p>现代意义上的“云彩，悬浮在天空中的蒸发水的团块”是一种隐喻性的扩展，始于公元1300年南方文本中，基于积云和岩石堆的相似之处。通常古英语中“云”的词是 <span class=\"foreign notranslate\">weolcan</span>（见 <a href=\"/cn/word/welkin\" title=\"Etymology, meaning and definition of welkin \" class=\"crossreference notranslate\">welkin</a>）。在中古英语中， <span class=\"foreign notranslate\">skie</span> 最初也是指“云”。中古英语汇编中 <span class=\"foreign notranslate\">cloud</span> 在原始岩石质量意义上的最后一条目录是公元1475年左右。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>云的四种基本分类（卷云，积云，层云，雨云）是由英国业余气象学家卢克·霍华德（Luke Howard，1772-1864）于1802年提出的。</p><p>“烟雾或灰尘的云状物”意义来自14世纪晚期。比喻地，作为遮蔽、使昏暗、威胁或投下阴影的东西，始于公元1300年； 因此， <i class=\"foreign notranslate\"><strong>under a cloud</strong></i>（约1500年）。<i class=\"foreign notranslate\"><strong>In the clouds</strong></i> “远离尘世的事物； 模糊、幻想、不真实”来自1640年代。 <i class=\"foreign notranslate\">Cloud-compeller</i>（云之主）翻译（诗意地）希腊语 <i class=\"foreign notranslate\">nephelegereta</i>，这是宙斯的荷马史诗中的一个描述。</p>"
+    },
+    {
+      "title": "<h2 id=\"#42843\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">cloud<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>15世纪初，“被云覆盖，覆盖，变暗”，来自 <a title=\"Etymology, meaning and definition of cloud \" class=\"crossreference notranslate\" href=\"/cn/word/cloud\">cloud</a>（名词）。从16世纪10年代开始，“使变暗或模糊”； 从1590年代开始，“覆盖阴暗”。及物动词“变得多云”来自1560年代。相关词汇： <i class=\"foreign notranslate\">Clouded</i>； <i class=\"foreign notranslate\">clouding</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "clod<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"土块或黏土\"，古英语 <i class=\"foreign notranslate\">clod-</i>（在 <i class=\"foreign notranslate\">clodhamer</i> 中指\"田鸫\"，一种画眉科鸟类），源自原始日耳曼语 <i class=\"foreign notranslate\">*kludda-</i>, 源自原始印欧语 <i class=\"foreign notranslate\">*gleu-</i>（参见 <a title=\"Etymology, meaning and definition of clay \" class=\"crossreference notranslate\" href=\"/cn/word/clay\">clay</a>）。</p><p>与 <a title=\"Etymology, meaning and definition of clot \" class=\"crossreference notranslate\" href=\"/cn/word/clot\">clot</a> 同义，直到18世纪意义有所区别。指\"人\"（\"仅仅是一块土\"）的意思始于1590年代； 指\"傻瓜，笨蛋，愚蠢的家伙\"的意思始于大约1600年（比较 <i class=\"foreign notranslate\">clodpate</i>， <i class=\"foreign notranslate\">clodpoll</i> 等同义词）。它也是中古英语的动词，既有\"凝结，形成土块\"的意思，也有\"犁田后打碎土块\"的意思。</p>"
+    },
+    {
+      "title": "welkin<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"天空\"（诗意），古英语 <i class=\"foreign notranslate\">wolcen</i> \"云\"，也指\"天空，天堂\"，源自原始日耳曼语 <i class=\"foreign notranslate\">*wulk-</i>（也包括古撒克逊语 <i class=\"foreign notranslate\">wolkan</i>，古弗里西亚语 <i class=\"foreign notranslate\">wolken</i>，中古荷兰语 <i class=\"foreign notranslate\">wolke</i>，荷兰语 <i class=\"foreign notranslate\">wolk</i>，古高地德语 <i class=\"foreign notranslate\">wolka</i>，德语 <i class=\"foreign notranslate\">Wolke</i> \"云\"），也许源自原始印欧语 <i class=\"foreign notranslate\">*welg-</i> \"潮湿\"（也包括立陶宛语 <i class=\"foreign notranslate\">vilgyti</i> \"弄湿\"，古教会斯拉夫语 <i class=\"foreign notranslate\">vlaga</i> \"湿气\"，捷克语 <i class=\"foreign notranslate\">vlhky</i> \"潮湿\"）； 但 Boutkan 否认了这一点，并没有找到好的印欧语源。</p>"
+    }
+  ]
+}

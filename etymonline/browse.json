@@ -1,0 +1,19 @@
+{
+  "word": "browse",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#17175\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">browse</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>15世纪中期， <span class=\"foreign notranslate\">brousen</span>，“以芽为食，从树木或灌木吃叶子或嫩枝”，源自古法语 <span class=\"foreign notranslate\">broster</span> “发芽，萌芽”，来自 <span class=\"foreign notranslate\">brost</span> “嫩芽，小枝，适合牛或鹿食用的绿色食品”，可能源自原始日耳曼语 <span class=\"foreign notranslate\">*brust-</span> “芽，嫩枝”，源自印欧语言 <span class=\"foreign notranslate\">*bhreus-</span> “膨胀，发芽”（参见 <a href=\"/cn/word/breast\" title=\"Etymology, meaning and definition of breast \" class=\"crossreference notranslate\">breast</a>（n.））。它在英语中失去了 <span class=\"foreign notranslate\">-t</span>，可能是因为误认为该字母是过去分词屈折。对“翻阅”（书籍）的比喻扩展是1870年代，美国英语。相关： <span class=\"foreign notranslate\">Browsed</span>； <span class=\"foreign notranslate\">browsing</span>。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "breast<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">breost</i>\"女人的乳腺，胸部； 胸膛或胸部，颈部和腹部之间的身体部位； 思想，想法，性格\"，源自原始日耳曼语 <i class=\"foreign notranslate\">*brust-/*breust-</i> \"胸部\"（也源自古撒克逊语 <i class=\"foreign notranslate\">briost</i>，古弗里西亚语 <i class=\"foreign notranslate\">briast</i>，古诺尔斯语 <i class=\"foreign notranslate\">brjost</i>，荷兰语 <i class=\"foreign notranslate\">borst</i>，德语 <i class=\"foreign notranslate\">brust</i>，哥特语 <i class=\"foreign notranslate\">brusts</i>），可能字面意思是\"肿胀\"，源自 PIE 词根 <i class=\"foreign notranslate\">*bhreus-</i> \"膨胀，发芽\"（也源自中古爱尔兰语 <i class=\"foreign notranslate\">bruasach</i>\"胸部宽阔，强壮\"，古爱尔兰语 <i class=\"foreign notranslate\">bruinne</i>\"胸部\"）。</p><p>拼写符合苏格兰和英格兰北部方言的发音。\"情感和感情的源泉，设计和秘密的储存处\"的比喻意义在古英语中已经存在。 <i class=\"foreign notranslate\"><strong>Breast-plate</strong></i> \"身体前部的盔甲\" 来自14世纪晚期。 <i class=\"foreign notranslate\"><strong>Breast-pump</strong></i> 来自1821年。</p>"
+    },
+    {
+      "title": "browser<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1845年，“吃草的动物”，是 <a title=\"Etymology, meaning and definition of browse \" class=\"crossreference notranslate\" href=\"/cn/word/browse\">browse</a>（v.）的代词。从1863年开始，指“在书籍中浏览的人”。在计算机意义上，从1982年开始使用。</p><blockquote class=\"bq-origin\">The first browser was invented at PARC by Larry Tesler, now a designer at Apple Computer. Tesler's first Smalltalk browser was a tree-structured device. It enabled programmers to hunt quickly for items in a Smalltalk dictionary. [InfoWorld magazine, vol. v, no. 4, Jan. 24, 1983]</blockquote><blockquote>第一个浏览器是由 PARC 的 Larry Tesler 发明的，他现在是苹果电脑的设计师。 Tesler 的第一个 Smalltalk 浏览器是一种树形设备。它使程序员能够快速搜索 Smalltalk 字典中的项目。[InfoWorld 杂志，第五卷，第四期，1983年1月24日]</blockquote>"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "brief",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#17112\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">brief</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>约于1300年， <i class=\"foreign notranslate\">bref</i>，“持续时间短的”； 14世纪初，“长度小的，短的”； 源自拉丁语 <i class=\"foreign notranslate\">brevis</i>（形容词）“短的，低的，小的，浅的”，源自 PIE <i class=\"foreign notranslate\">*mregh-wi-</i>, 源自根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *mregh-u- \" class=\"crossreference notranslate\" href=\"/cn/word/*mregh-u-\">*mregh-u-</a> “短的”。</p>"
+    },
+    {
+      "title": "<h2 id=\"#32676\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">brief<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></h2>",
+      "html": "<p>14世纪初， <i class=\"foreign notranslate\">bref</i>，指“由权威发布的文件”，源自拉丁语 <i class=\"foreign notranslate\">breve</i>（属格 <i class=\"foreign notranslate\">brevis</i>），名词派生自形容词 <i class=\"foreign notranslate\">brevis</i> “短小的”（源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *mregh-u- \" class=\"crossreference notranslate\" href=\"/cn/word/*mregh-u-\">*mregh-u-</a> “短的”），后来意为“信函，摘要”，特指教皇的信函（比 <i class=\"foreign notranslate\">bull</i> 更简略和庄重），因此意为“授权信函”，进而演变为现代法律意义上的“案件事实的系统摘要”（1630年代）。 “简短或简洁的写作”意义始于1560年代。在德语中， <i class=\"foreign notranslate\">Brief</i> 已成为“书信或信函”的通用词。</p>"
+    },
+    {
+      "title": "<h2 id=\"#44010\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">brief<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>\"向某人提供指示或信息\"，1866年； 最初是指\"通过简要说明进行指导\"（1862年），来自 <a title=\"Etymology, meaning and definition of brief \" class=\"crossreference notranslate\" href=\"/cn/word/brief\">brief</a>（名词）。相关词汇： <i class=\"foreign notranslate\">Briefed</i>； <a title=\"Etymology, meaning and definition of briefing \" class=\"crossreference notranslate\" href=\"/cn/word/briefing\">briefing</a>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "briefing<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"提前指导的事实或情况\"，1910年（但在二战飞行前会议中广为流传），是 <a title=\"Etymology, meaning and definition of brief \" class=\"crossreference notranslate\" href=\"/cn/word/brief\">brief</a>（v.）的动名词。</p>"
+    },
+    {
+      "title": "breve<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约于1300年，“授权信函”； 见 <a title=\"Etymology, meaning and definition of brief \" class=\"crossreference notranslate\" href=\"/cn/word/brief\">brief</a>（n.）； 15世纪中期，作为一种中世纪音乐符号，其持续时间为“长音符”（<i class=\"foreign notranslate\">longa</i>）的一半或三分之一，源自拉丁语 <i class=\"foreign notranslate\">breve</i>（adj.）“短暂的”（见 <a title=\"Etymology, meaning and definition of brief \" class=\"crossreference notranslate\" href=\"/cn/word/brief\">brief</a>（adj.））。在现代使用中，它的价值相当于两个整音符，是最长的符号（尽管很少使用），这颠倒了词源的意义。放置在元音上方以表示“短暂”的语法曲线（1540年代）来自同一来源。</p>"
+    }
+  ]
+}

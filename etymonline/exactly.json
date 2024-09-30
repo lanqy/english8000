@@ -1,0 +1,19 @@
+{
+  "word": "exactly",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#32778\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">exactly</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adv.)</div></span>",
+      "html": "<p>\"以精确的方式，准确无误地\"，来自于 <a title=\"Etymology, meaning and definition of exact \" class=\"crossreference notranslate\" href=\"/cn/word/exact\">exact</a>（形容词）+ <a title=\"Etymology, meaning and definition of -ly \" class=\"crossreference notranslate\" href=\"/cn/word/-ly\">-ly</a>（2）。用于表示“完全正确”的省略用法在1869年之前没有记录。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "exact<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"精确的，严谨的，准确的\"，来自1530年代的拉丁语 <i class=\"foreign notranslate\">exactus</i>，意为\"精确的，准确的，高度完成的\"，是 <i class=\"foreign notranslate\">exigere</i> 的过去分词形容词，意为\"要求，需要，强制执行\"，字面意思是\"驱动或强制驱动\"，也可以表示\"完成，测量\"，由 <i class=\"foreign notranslate\">ex</i> \"出\"（见 <a title=\"Etymology, meaning and definition of ex- \" class=\"crossreference notranslate\" href=\"/cn/word/ex-\">ex-</a>)和 <i class=\"foreign notranslate\">agere</i> \"启动，驱动，推进； 做，执行\"（源自 PIE 根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *ag- \" class=\"crossreference notranslate\" href=\"/cn/word/*ag-\">*ag-</a> \"驱动，拉出或向外拉，移动\"）组成。</p>"
+    },
+    {
+      "title": "-ly<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(2)</div>",
+      "html": "<p>常见的副词后缀，由形容词构成副词，表示“以形容词所表示的方式”，中古英语，源自古英语 <i class=\"foreign notranslate\">-lice</i>，源自原始日耳曼语 <i class=\"foreign notranslate\">*-liko-</i>（同源词：古弗里西亚语 <i class=\"foreign notranslate\">-like</i>，古撒克逊语 <i class=\"foreign notranslate\">-liko</i>，荷兰语 <i class=\"foreign notranslate\">-lijk</i>，古高地德语 <i class=\"foreign notranslate\">-licho</i>，德语 <i class=\"foreign notranslate\">-lich</i>，古诺尔斯语 <i class=\"foreign notranslate\">-liga</i>，哥特语 <i class=\"foreign notranslate\">-leiko</i>）； 参见 <a title=\"Etymology, meaning and definition of -ly \" class=\"crossreference notranslate\" href=\"/cn/word/-ly\">-ly</a>（1）。同源词有 <a title=\"Etymology, meaning and definition of lich \" class=\"crossreference notranslate\" href=\"/cn/word/lich\">lich</a>，与形容词 <a title=\"Etymology, meaning and definition of like \" class=\"crossreference notranslate\" href=\"/cn/word/like\">like</a> 相同。</p><p>Weekley 指出，日耳曼语使用一个基本上意味着“身体”的词来构成副词，而罗曼语使用一个意味着“心灵”的词（如法语 <i class=\"foreign notranslate\">constamment</i> 源自拉丁语 <i class=\"foreign notranslate\">constanti mente</i>）。现代英语形式出现在中古英语晚期，可能受到古诺尔斯语 <i class=\"foreign notranslate\">-liga</i> 的影响。</p>"
+    }
+  ]
+}

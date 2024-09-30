@@ -1,0 +1,23 @@
+{
+  "word": "finite",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5961\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">finite</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>15世纪早期，“空间或时间有限，有限的”，源自拉丁语 <i class=\"foreign notranslate\">finitum</i>，是 <i class=\"foreign notranslate\">finire</i> 的过去分词，“限制，设定界限； 结束”（参见 <a title=\"Etymology, meaning and definition of finish \" class=\"crossreference notranslate\" href=\"/cn/word/finish\">finish</a>（v.））。相关词汇： <i class=\"foreign notranslate\">Finitely</i>； <i class=\"foreign notranslate\">finiteness</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "finish<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>14世纪晚期，“结束； ”15世纪中期，“结束”（不及物动词），来自古法语 <i class=\"foreign notranslate\">finiss-</i>，是 <i class=\"foreign notranslate\">fenir</i> “停止，结束，结束； 死亡”（13世纪）的现在分词词干，源自拉丁语 <i class=\"foreign notranslate\">finire</i> “限制，设定界限； 结束； 结束”，来自 <i class=\"foreign notranslate\">finis</i> “分隔物，边界，边界”，比喻“限制，结束，关闭，结论； 极限，最高点； 最大程度”，其起源不明，可能与 <i class=\"foreign notranslate\">figere</i> “固定，固定”有关（见 <a title=\"Etymology, meaning and definition of fix \" class=\"crossreference notranslate\" href=\"/cn/word/fix\">fix</a>（v.））。意思是“杀死，终止存在”来自1755年。</p>"
+    },
+    {
+      "title": "finitude<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1640年代，来自 <a title=\"Etymology, meaning and definition of finite \" class=\"crossreference notranslate\" href=\"/cn/word/finite\">finite</a> + <i class=\"foreign notranslate\">-ude</i>（参见 <a title=\"Etymology, meaning and definition of -tude \" class=\"crossreference notranslate\" href=\"/cn/word/-tude\">-tude</a>）。</p>"
+    },
+    {
+      "title": "finity<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“有限”一词最初出现于1670年代，源自法语单词“<i class=\"foreign notranslate\">finité</i>”，它是“<i class=\"foreign notranslate\">fini</i>”的过去分词，而“<i class=\"foreign notranslate\">fini</i>” 指的是将某事物限定在一个较小的范围内。该法语单词又源自拉丁语单词“<i class=\"foreign notranslate\">finir</i>”，意为“界限”，而“<i class=\"foreign notranslate\">finir</i>” 则来自拉丁语单词“<i class=\"foreign notranslate\">finire</i>”（参见“<a title=\"Etymology, meaning and definition of finite \" class=\"crossreference notranslate\" href=\"/cn/word/finite\">finite</a>”）。</p>"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "application",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#15507\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">application</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪早期，“将某物施加于其他事物”的意思，源自14世纪的古法语 <span class=\"foreign notranslate\">aplicacion</span>，来自拉丁语 <span class=\"foreign notranslate\">applicationem</span>（主格 <span class=\"foreign notranslate\">applicatio</span>），意为“连接，依附； 客户与赞助人的关系”，是 <span class=\"foreign notranslate\">applicare</span> 的动名词形式，该词源自 <span class=\"foreign notranslate\">ad</span>（参见 <a href=\"/cn/word/ad-\" title=\"Etymology, meaning and definition of ad- \" class=\"crossreference notranslate\">ad-</a>)和 <span class=\"foreign notranslate\">plicare</span> “折叠”（源自 PIE 词根 <a href=\"/cn/word/*plek-\" title=\"Etymology, meaning and definition of *plek- \" rel=\"nofollow\" class=\"crossreference notranslate\">*plek-</a> “编织”）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>“真诚的努力”一词源于1600年左右。1851年开始使用“正式请求被雇用或获得有偿职位”的意思。计算机术语“程序设计，用于在更大的系统内执行特定任务或解决特定问题”是 <i class=\"foreign notranslate\"><strong>application program</strong></i>（1969）的缩写。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "app<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"<a title=\"Etymology, meaning and definition of application \" class=\"crossreference notranslate\" href=\"/cn/word/application\">application</a>\"是计算机术语的速记，可以追溯到1992年。</p>"
+    },
+    {
+      "title": "applet<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>到了1995年，这个词是由 <a title=\"Etymology, meaning and definition of application \" class=\"crossreference notranslate\" href=\"/cn/word/application\">application</a> 和 <a title=\"Etymology, meaning and definition of -let \" class=\"crossreference notranslate\" href=\"/cn/word/-let\">-let</a> 组合而成的。</p>"
+    }
+  ]
+}

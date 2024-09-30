@@ -1,0 +1,23 @@
+{
+  "word": "greet",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#11955\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">greet</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>古英语 <span class=\"foreign notranslate\">gretan</span> “接触”在任何意义上（“攻击，搭讪”以及“问候，欢迎”和“触摸，抓住，处理”，如 <span class=\"foreign notranslate\">hearpan gretan</span> “弹奏竖琴”），“寻找，接近”，来自西日耳曼语 <span class=\"foreign notranslate\">*grotjan</span>（源头还包括古撒克逊语 <span class=\"foreign notranslate\">grotian</span>，古弗里西亚语 <span class=\"foreign notranslate\">greta</span>，荷兰语 <span class=\"foreign notranslate\">groeten</span>，古高地德语 <span class=\"foreign notranslate\">gruozen</span>，德语 <span class=\"foreign notranslate\">grüßen</span> “问候，打招呼”），起源不明。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>在英语、德语和荷兰语中，主要意义已变为“问候”，但这个词曾经有更广泛的意义。也许最初是“回响”（通过“引起说话”的概念），是 Proto-Germanic <i class=\"foreign notranslate\">*grætanan</i> 的使役形式，是 Old English <i class=\"foreign notranslate\">grætan</i>（Anglian <i class=\"foreign notranslate\">gretan</i>）“哭泣，哀悼”的词根，来自 PIE <i class=\"foreign notranslate\">*gher-</i>（2）“呼喊”。<i class=\"foreign notranslate\">Greet</i> 在苏格兰和北英格兰方言中仍然可以表示“哭泣，哀悼”，尽管这可能来自不同的词根。<i class=\"foreign notranslate\">Grætan</i> 可能也是 <a title=\"Etymology, meaning and definition of regret \" class=\"crossreference notranslate\" href=\"/cn/word/regret\">regret</a> 中第二个元素的来源。相关： <i class=\"foreign notranslate\">Greeted</i>； <a title=\"Etymology, meaning and definition of greeting \" class=\"crossreference notranslate\" href=\"/cn/word/greeting\">greeting</a>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "greeting<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">greting</i> “问候”，动名词来自 <i class=\"foreign notranslate\">gretan</i>（见 <a title=\"Etymology, meaning and definition of greet \" class=\"crossreference notranslate\" href=\"/cn/word/greet\">greet</a>）。相关词： <i class=\"foreign notranslate\">Greetings</i>。首次记录的 <i class=\"foreign notranslate\">greeting card</i> 出现于1876年。</p>"
+    },
+    {
+      "title": "regret<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>&nbsp; 14世纪晚期， <i class=\"foreign notranslate\">regreten</i>，“因回忆而感到痛苦或悲伤； 因回忆而悲痛地想念； ”来自古法语 <i class=\"foreign notranslate\">regreter</i> “长时间后悔，哀悼某人的死亡； 请求帮助”（现代法语 <i class=\"foreign notranslate\">regretter</i>），来自 <i class=\"foreign notranslate\">re-</i>，强调前缀（见 <a title=\"Etymology, meaning and definition of re- \" class=\"crossreference notranslate\" href=\"/cn/word/re-\">re-</a>），+ <i class=\"foreign notranslate\">-greter</i>，可能来自法兰克或其他日耳曼语源（比较古英语 <i class=\"foreign notranslate\">grætan</i> “哭泣”； 古诺尔斯语 <i class=\"foreign notranslate\">grata</i> “哭泣，呻吟”），来自原始日耳曼语 <i class=\"foreign notranslate\">*gretan</i> “哭泣”。[世纪词典]“在其他罗曼语言中找不到，解释各不相同”。</p><p>从1550年代开始，“为（事件、行动、事实的揭示等）感到悲痛”。相关： <i class=\"foreign notranslate\">Regretted</i>； <i class=\"foreign notranslate\">regretting</i>。取代了古英语 <i class=\"foreign notranslate\">ofþyncan</i>，来自 <i class=\"foreign notranslate\">of-</i> “离开，远离”，这里表示反对，+ <i class=\"foreign notranslate\">þyncan</i> “似乎，似乎合适”（如 <a title=\"Etymology, meaning and definition of methinks \" class=\"crossreference notranslate\" href=\"/cn/word/methinks\">methinks</a>）。</p>"
+    },
+    {
+      "title": "greeter<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>14世纪晚期，来自 <a title=\"Etymology, meaning and definition of greet \" class=\"crossreference notranslate\" href=\"/cn/word/greet\">greet</a> 的代词。</p>"
+    }
+  ]
+}

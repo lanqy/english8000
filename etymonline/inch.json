@@ -1,0 +1,27 @@
+{
+  "word": "inch",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#6309\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">inch</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.1)</div></span>",
+      "html": "<p>\"线性度量，英尺的十二分之一，\" 晚期古英语 <span class=\"foreign notranslate\">ynce</span>, 中古英语 <span class=\"foreign notranslate\">unche</span>（约于1300年的现代拼写），源自拉丁语 <span class=\"foreign notranslate\">uncia</span> \"十二分之一\"，来自 <span class=\"foreign notranslate\">unus</span> \"一\"（源自 PIE 词根 <a href=\"/cn/word/*oi-no-\" title=\"Etymology, meaning and definition of *oi-no- \" rel=\"nofollow\" class=\"crossreference notranslate\">*oi-no-</a> \"一，独特的\"）。这是早期盎格鲁-撒克逊语从拉丁语借来的词汇，其他日耳曼语中没有发现。转义和比喻意义上的“非常少量，小数量”可追溯至14世纪中叶。从1845年起，作为降雨量的计量单位。中古英语有时将其错误地分为 <span class=\"foreign notranslate\">a neynche</span>。短语 <span class=\"foreign notranslate\">Every inch</span> \"在各个方面\" 可追溯至15世纪初。关于短语 <span class=\"foreign notranslate\">give him an inch ...</span>，请参见 <a href=\"/cn/word/ell\" title=\"Etymology, meaning and definition of ell \" class=\"crossreference notranslate\">ell</a>。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    },
+    {
+      "title": "<h2 id=\"#6310\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">inch<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.2)</div></h2>",
+      "html": "<p>\"苏格兰小岛\"，15世纪初，来自盖尔语 <i class=\"foreign notranslate\">innis</i>（属格 <i class=\"foreign notranslate\">innse</i>）\"岛屿\"，源自凯尔特语 <i class=\"foreign notranslate\">*inissi</i>（也是古爱尔兰语 <i class=\"foreign notranslate\">inis</i>，威尔士语 <i class=\"foreign notranslate\">ynys</i>，布列塔尼语 <i class=\"foreign notranslate\">enez</i> 的来源）。</p>"
+    },
+    {
+      "title": "<h2 id=\"#45541\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">inch<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1590年代，“逐渐移动”（不及物动词），来自 <a title=\"Etymology, meaning and definition of inch \" class=\"crossreference notranslate\" href=\"/cn/word/inch\">inch</a>（名词1）。意思是“逐渐驱动或强制”（及物动词）始于1660年代。相关词汇： <i class=\"foreign notranslate\">Inched</i>； <i class=\"foreign notranslate\">inching</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "ell<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.1)</div>",
+      "html": "<p>度量单位，古英语 <i class=\"foreign notranslate\">eln</i>，最初指“前臂，手臂的长度”（作为一种度量，长度从一英尺半到两英尺不等），源自于 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *el- \" class=\"crossreference notranslate\" href=\"/cn/word/*el-\">*el-</a> “肘，前臂”。确切的距离因使用谁的手臂作为基础以及是从肩膀到指尖还是从手腕测量而有所不同：苏格兰的 <i class=\"foreign notranslate\">ell</i> 为37.2英寸，佛兰德的为27英寸。拉丁语 <i class=\"foreign notranslate\">ulna</i> 也是一种线性度量单位，与 <a title=\"Etymology, meaning and definition of cubit \" class=\"crossreference notranslate\" href=\"/cn/word/cubit\">cubit</a> 相比。现代英语的45英寸似乎是在都铎王朝时期确定的。</p><blockquote class=\"bq-origin\">Whereas shee tooke an inche of liberty before, tooke an ell afterwardes [Humfrey Gifford, \"A Posie of Gilloflowers,\" 1580].</blockquote><blockquote>“而她之前取了一英寸的自由，之后取了一 <i class=\"foreign notranslate\">ell</i>”[Humfrey Gifford，“A Posie of Gilloflowers”，1580年]。</blockquote>"
+    },
+    {
+      "title": "inchmeal<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adv.)</div>",
+      "html": "<p>\"by inches, inch by inch,\" 1580s，源自 <a title=\"Etymology, meaning and definition of inch \" class=\"crossreference notranslate\" href=\"/cn/word/inch\">inch</a>（英寸）和中古英语 <i class=\"foreign notranslate\">meal</i>（固定时间，时间段，场合）（参见 <a title=\"Etymology, meaning and definition of meal \" class=\"crossreference notranslate\" href=\"/cn/word/meal\">meal</a>（n.1），并比较 <a title=\"Etymology, meaning and definition of piecemeal \" class=\"crossreference notranslate\" href=\"/cn/word/piecemeal\">piecemeal</a>）。</p>"
+    }
+  ]
+}

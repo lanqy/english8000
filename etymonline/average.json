@@ -1,0 +1,23 @@
+{
+  "word": "average",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#18998\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">average</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪后期，“船主为保管货物向货主收取的超过运费的任何小费”，也指“由于货物在运输过程中损坏而产生的财务损失”，源自法语 <span class=\"foreign notranslate\">avarie</span> “船只损坏”，以及意大利语 <span class=\"foreign notranslate\">avaria</span>。这是12世纪地中海海运贸易中的一个词（与西班牙语 <span class=\"foreign notranslate\">averia</span> 相似），起源不确定； 有时被追溯到阿拉伯语 <span class=\"foreign notranslate\">'awariya</span> “损坏的商品”。荷兰语 <span class=\"foreign notranslate\">avarij</span> 、德语 <span class=\"foreign notranslate\">haferei</span> 等也来自罗曼语系语言。 “很少有词语接受过更多的词源研究”[OED]。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><blockquote class=\"bq-origin\">Thus, when for the safety of a ship in distress any destruction of property is incurred, either by cutting away the masts, throwing goods overboard, or in other ways, all persons who have goods on board or property in the ship (or the insurers) contribute to the loss according to their average, that is, according to the proportionate value of the goods of each on board. [Century Dictionary]</blockquote><blockquote>因此，当为了拯救遇险的船只而造成任何财产损失时，无论是通过砍掉桅杆、抛弃货物或其他方式，所有在船上有货物或财产的人（或保险人）都按照他们的平均值分摊损失，即根据每个人在船上的货物价值的比例。[世纪词典]</blockquote><p>这个意思发展成“利害关系方的平均分摊损失”。转义的意思“中间估计的陈述，不平等的比例分配给所有人”，首次记录于1735年。数学意义上的“通过算术计算得出的平均比例”来自于1755年。体育运动的意义，如击球，在1845年被证实，最初是在板球中使用的。</p>"
+    },
+    {
+      "title": "<h2 id=\"#42030\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">average<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></h2>",
+      "html": "<p>1770年，“通过平均估算”，源自 <a title=\"Etymology, meaning and definition of average \" class=\"crossreference notranslate\" href=\"/cn/word/average\">average</a>（名词）。1803年开始用于表示“与所有特定数量之和除以它们的数量相等”，因此表示“中等的性质”。</p>"
+    },
+    {
+      "title": "<h2 id=\"#42031\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">average<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1769年，意为“总计”，源自 <a title=\"Etymology, meaning and definition of average \" class=\"crossreference notranslate\" href=\"/cn/word/average\">average</a>（名词）。1831年开始意为“求不等量数的算术平均数”； 1914年开始意为“按比例分配”（通常与 <i class=\"foreign notranslate\">out</i> 连用）。相关词汇： <i class=\"foreign notranslate\">Averaged</i>； <i class=\"foreign notranslate\">averaging</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "tariff<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1590年代，“算术表”，也指“进口或出口关税的官方清单； 调节进口关税的法律”，源自意大利语 <i class=\"foreign notranslate\">tariffa</i> “关税，价格，评估”，中世纪拉丁语 <i class=\"foreign notranslate\">tarifa</i> “价格清单，费率手册”，源自阿拉伯语 <i class=\"foreign notranslate\">ta'rif</i> “信息，通知，公开； 应付费用清单”，动名词 <i class=\"foreign notranslate\">arafa</i> “他公开，他教授”。 “企业收费分类清单”的意义记录于1757年。美国 <i class=\"foreign notranslate\">Tariff of Abominations</i> 于1828年通过。</p>"
+    }
+  ]
+}

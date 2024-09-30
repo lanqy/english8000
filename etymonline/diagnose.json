@@ -1,0 +1,19 @@
+{
+  "word": "diagnose",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#31408\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">diagnose</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>\"从症状确定或确定（疾病）\"，1861年，借鉴 <a title=\"Etymology, meaning and definition of diagnosis \" class=\"crossreference notranslate\" href=\"/cn/word/diagnosis\">diagnosis</a>（参见）的后缀形成，模仿 <i class=\"foreign notranslate\">metamorphose</i> 等。早期的词语是 <i class=\"foreign notranslate\">diagnosticate</i>（1834年）。相关词汇： <i class=\"foreign notranslate\">Diagnosed</i>； <i class=\"foreign notranslate\">diagnosing</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "diagnosis<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"科学歧视\"，尤其是在病理学中，指的是从症状中识别出一种疾病，起源于1680年代，医学拉丁语中应用了希腊词汇 <i class=\"foreign notranslate\">diagnōsis</i> \"辨别，区分\"，源自 <i class=\"foreign notranslate\">diagignōskein</i> \"辨别，区分\"的词干，字面意思是\"彻底了解\"或\"与其他事物区分开来\"，源自 <i class=\"foreign notranslate\">dia</i> \"之间\"（参见 <a title=\"Etymology, meaning and definition of dia- \" class=\"crossreference notranslate\" href=\"/cn/word/dia-\">dia-</a>）+ <i class=\"foreign notranslate\">gignōskein</i> \"学习，了解\"，源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *gno- \" class=\"crossreference notranslate\" href=\"/cn/word/*gno-\">*gno-</a> \"知道\"。</p>"
+    },
+    {
+      "title": "misdiagnose<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>\"误诊\"，1897年，来自 <a title=\"Etymology, meaning and definition of mis- \" class=\"crossreference notranslate\" href=\"/cn/word/mis-\">mis-</a>（1）\"错误地\" + <a title=\"Etymology, meaning and definition of diagnose \" class=\"crossreference notranslate\" href=\"/cn/word/diagnose\">diagnose</a>。相关词汇： <i class=\"foreign notranslate\">Misdiagnosed</i>； <i class=\"foreign notranslate\">misdiagnosing</i>。</p>"
+    }
+  ]
+}

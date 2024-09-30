@@ -1,0 +1,23 @@
+{
+  "word": "breadth",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#17078\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">breadth</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"两侧之间的距离\"，14世纪晚期，是 <i class=\"foreign notranslate\">brede</i> \"宽度\"的变体，源自古英语 <i class=\"foreign notranslate\">brædu</i> \"宽度，广度，范围\"，来自 <i class=\"foreign notranslate\">bræd</i>； 可能是通过 <i class=\"foreign notranslate\">long</i>/<a title=\"Etymology, meaning and definition of length \" class=\"crossreference notranslate\" href=\"/cn/word/length\">length</a> 的类比而来。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "length<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">lengðu</i> “在一个方向上长或延伸的属性； 沿着一条线的距离”，源自原始日耳曼语 <i class=\"foreign notranslate\">*langitho</i>，抽象名词，来自 <i class=\"foreign notranslate\">*langaz</i> “长”（古英语 <i class=\"foreign notranslate\">lang</i> 的词根； 参见 <a title=\"Etymology, meaning and definition of long \" class=\"crossreference notranslate\" href=\"/cn/word/long\">long</a>（形容词））+ <i class=\"foreign notranslate\">*-itho</i>，抽象名词后缀（参见 <a title=\"Etymology, meaning and definition of -th \" class=\"crossreference notranslate\" href=\"/cn/word/-th\">-th</a>（2））。同源于古诺尔斯语 <i class=\"foreign notranslate\">lengd</i>，古弗里西亚语 <i class=\"foreign notranslate\">lengethe</i>，荷兰语 <i class=\"foreign notranslate\">lengte</i>。</p><p>“一个人走的距离，某物被带到的极限”的比喻意义始于1690年代。短语 <i class=\"foreign notranslate\">at length</i> “到最大程度”最早见于约1500年。作为“游泳池的长度”，始于1903年。从“任何事物的一部分或部分的长度”这一概念中，衍生出戏剧俚语意义上的“演员角色的42行部分”（1736年）和体育意义上的“马、车等在比赛中的长度”作为一种度量单位（1650年代）。</p>"
+    },
+    {
+      "title": "hairbreadth<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>也作为 <i class=\"foreign notranslate\">hairsbreadth</i> 、<i class=\"foreign notranslate\">hairs-breadth</i> 、<i class=\"foreign notranslate\">hair's breadth</i>，自15世纪晚期起作为精确度的度量单位。据说曾经是一个正式的度量单位，相当于一英寸的四十八分之一。源自 <a title=\"Etymology, meaning and definition of hair \" class=\"crossreference notranslate\" href=\"/cn/word/hair\">hair</a> 和 <a title=\"Etymology, meaning and definition of breadth \" class=\"crossreference notranslate\" href=\"/cn/word/breadth\">breadth</a>。</p>"
+    },
+    {
+      "title": "width<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1620年代，以 <a title=\"Etymology, meaning and definition of breadth \" class=\"crossreference notranslate\" href=\"/cn/word/breadth\">breadth</a> 为模型，由 <a title=\"Etymology, meaning and definition of wide \" class=\"crossreference notranslate\" href=\"/cn/word/wide\">wide</a> 形成，并取代了 <i class=\"foreign notranslate\">wideness</i>（古英语 <i class=\"foreign notranslate\">widnes</i>）。约翰逊（1755年）称其为\"一个低级词汇\"。相关词汇： <i class=\"foreign notranslate\">Widthwise</i>。</p>"
+    }
+  ]
+}

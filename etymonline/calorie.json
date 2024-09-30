@@ -1,0 +1,19 @@
+{
+  "word": "calorie",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#615\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">calorie</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>物理学中的热量单位，1866年源自法语 <i class=\"foreign notranslate\">calorie</i>，源自拉丁语 <i class=\"foreign notranslate\">calor</i>（属格 <i class=\"foreign notranslate\">caloris</i>）\"热量\"，源自 PIE <i class=\"foreign notranslate\">*kle-os-</i>，是词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *kele- \" class=\"crossreference notranslate\" href=\"/cn/word/*kele-\">*kele-</a>（1）\"温暖\"的带后缀形式。</p><p>作为能量单位，被定义为\"将1克水升高1摄氏度所需的热量\"（即 <span class=\"foreign notranslate\">small</span> 或 <span class=\"foreign notranslate\">gram calorie</span>），但作为食物能量价值的衡量标准，是\"将1千克水升高1摄氏度所需的热量\"（即 <span class=\"foreign notranslate\">large calorie</span> 或 <span class=\"foreign notranslate\">kilocalorie</span>）。由于这个定义上的混淆，它在1950年在科学使用中主要被 <a href=\"/cn/word/joule\" title=\"Etymology, meaning and definition of joule \" class=\"crossreference notranslate\">joule</a> 所取代。1908年已经有记录表明卡路里计算或监控作为科学减重方法的存在。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "joule<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“瓦特时”是电能单位的英文，创造于1882年，以表彰英国物理学家詹姆斯·P· <i class=\"foreign notranslate\">Joule</i> （1818-1889）的贡献。该姓氏是 <a title=\"Etymology, meaning and definition of Joel \" class=\"crossreference notranslate\" href=\"/cn/word/Joel\">Joel</a> 的变体。相关词汇： <i class=\"foreign notranslate\">Joulemeter</i>。</p>"
+    },
+    {
+      "title": "kilocalorie<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>也称 <i class=\"foreign notranslate\">kilo-calorie</i>，1889年首次出现（1866年法语，1870年德语）； 参见 <a title=\"Etymology, meaning and definition of kilo- \" class=\"crossreference notranslate\" href=\"/cn/word/kilo-\">kilo-</a> 和 <a title=\"Etymology, meaning and definition of calorie \" class=\"crossreference notranslate\" href=\"/cn/word/calorie\">calorie</a>。</p>"
+    }
+  ]
+}

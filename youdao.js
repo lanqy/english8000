@@ -1,6 +1,7 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
-import fs from "fs";
+import { data } from "./data.js";
+import { writeFileSync, readdirSync } from "fs";
 
 async function scrapeYoudao(word) {
   try {
@@ -122,7 +123,7 @@ async function scrapeYoudao(word) {
 
     // Write the result to a JSON file
     const jsonContent = JSON.stringify(result, null, 2);
-    fs.writeFileSync(`${word}.json`, jsonContent);
+    writeFileSync(`./youdao/${word}.json`, jsonContent);
 
     console.log(
       `Data for "${word}" has been scraped and saved to ${word}.json`
@@ -132,10 +133,26 @@ async function scrapeYoudao(word) {
   }
 }
 
-const words = ["hello", "world", "hello, john"];
+function getWords(data) {
+  const words = [];
+  data.forEach((element) => {
+    words.push(element.word.toLowerCase());
+  });
+
+  return words;
+}
+const directoryPath = "./youdao";
+
+const words = getWords(data);
+const files = readdirSync(directoryPath);
+console.log(files.length)
+console.log(files)
+console.log(words.length)
 
 for (const item of words) {
-  await scrapeYoudao(item);
+  if (!files.includes(`${item}.json`)) {
+    // await scrapeYoudao(item);
+  }
 }
 
 // Usage example

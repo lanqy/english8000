@@ -1,0 +1,23 @@
+{
+  "word": "algebra",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#8140\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">algebra</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"数学正式化； 方程分析； 通过一种紧凑而高度系统化的符号来推理数量关系的艺术\"，1550年代来源于中世纪拉丁语 <span class=\"foreign notranslate\">algebra</span>，来自于九世纪巴格达数学家阿布·贾法尔·穆罕默德·伊本·穆萨·卡瓦里茨米编撰的著名方程论著《算术合成还原術之书》(al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala)的阿拉伯语 <span class=\"foreign notranslate\">\"al-mukhtasar fi hisab al-jabr wa al-muqabala\"</span>。阿拉伯语 <span class=\"foreign notranslate\">al jabr</span> （在口语中， <span class=\"foreign notranslate\">al-jebr</span> （克莱因））指“断片的重聚”（计算时将分数转换为整数），是求解代数方程的两个预备步骤之一。这来自于阿拉伯语 <span class=\"foreign notranslate\">jabara</span>，指“重新整合，重聚，巩固”。卡瓦里茨米的著作(在12世纪翻译成拉丁语) 也将阿拉伯数字引入了西方。 约翰·迪(16世纪)称其为 <span class=\"foreign notranslate\">algiebar and almachabel</span>。17 世纪，这个单词的重音从第二个音节变成了第一个音节。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>在英语15世纪至16世纪，也使用同样的词语来意指“矫正骨骼”，就像中世纪拉丁语所说的 <i class=\"foreign notranslate\">algebra</i>，这种用法可能来自和尚在西班牙的阿拉伯医生。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "algebraic<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"代数的,\" 在 1660 年代出现，源自于 <a title=\"Etymology, meaning and definition of algebra \" class=\"crossreference notranslate\" href=\"/cn/word/algebra\">algebra</a> 和 <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>。 在此之前是 <i class=\"foreign notranslate\">algebraical</i>（1570 年代）。 相关词汇包括： <i class=\"foreign notranslate\">algebraically</i>。</p>"
+    },
+    {
+      "title": "algorithm<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1690年代，“阿拉伯计算系统”，源自法语 <i class=\"foreign notranslate\">algorithme</i>，在错误地将其与希腊 <i class=\"foreign notranslate\">arithmos</i> “数字”联系起来后重新设计，源自古法语 <i class=\"foreign notranslate\">algorisme</i> “阿拉伯数字系统”（13世纪），源自中世纪拉丁语 <i class=\"foreign notranslate\">algorismus</i>，这是阿拉伯语 <i class=\"foreign notranslate\">al-Khwarizmi</i> “Khwarazm 的本地人”（乌兹别克斯坦的现代 <i class=\"foreign notranslate\">Khiva</i>）的拼写错误的音译，这位数学家的作品将复杂的数学引入了西方（参见 <a title=\"Etymology, meaning and definition of algebra \" class=\"crossreference notranslate\" href=\"/cn/word/algebra\">algebra</a>）。中古英语中更早的形式是 <i class=\"foreign notranslate\">algorism</i>（13世纪初），源自古法语。意义扩大到任何计算方法； 从20世纪中叶开始，特别是与计算机有关。</p>"
+    },
+    {
+      "title": "al-<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>在来自阿拉伯语（或被认为是来自阿拉伯语）的词汇中，它是定冠词“the”。有时在英语中被表示为<i class=\"foreign notranslate\">el-</i>。它经常与后面的辅音结合（<i class=\"foreign notranslate\">as-</i>、<i class=\"foreign notranslate\">az-</i>、<i class=\"foreign notranslate\">ar-</i>、<i class=\"foreign notranslate\">am-</i>、<i class=\"foreign notranslate\">an-</i>等）。例如<a title=\"Etymology, meaning and definition of almanac \" class=\"crossreference notranslate\" href=\"/cn/word/almanac\">almanac</a>、<a title=\"Etymology, meaning and definition of alchemy \" class=\"crossreference notranslate\" href=\"/cn/word/alchemy\">alchemy</a>、<a title=\"Etymology, meaning and definition of alcohol \" class=\"crossreference notranslate\" href=\"/cn/word/alcohol\">alcohol</a>、<a title=\"Etymology, meaning and definition of algebra \" class=\"crossreference notranslate\" href=\"/cn/word/algebra\">algebra</a>。</p>"
+    }
+  ]
+}

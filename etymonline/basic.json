@@ -1,0 +1,23 @@
+{
+  "word": "basic",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5281\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">basic</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>\"与基础有关的\"，最初出现于1832年的化学领域，源自 <a title=\"Etymology, meaning and definition of base \" class=\"crossreference notranslate\" href=\"/cn/word/base\">base</a>（n.）+ <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>。</p>"
+    },
+    {
+      "title": "<h2 id=\"#5282\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">BASIC<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div></h2>",
+      "html": "<p>计算机语言，1964年，首字母缩略词（首字母缩写），“<i class=\"foreign notranslate\">Beginners' All-purpose Symbolic Instruction Code</i>” 的缩写； 由匈牙利裔美国计算机科学家约翰·G·凯门伊和美国计算机科学家托马斯·E·库兹特发明。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "base<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>公元1300年左右，“建筑物的地基”、“雕像的基座”，总的来说，“任何东西的底部都被认为是其支撑物”，来自于古法语 <i class=\"foreign notranslate\">bas</i> “深度”(12世纪)，源自拉丁语 <i class=\"foreign notranslate\">basis</i> “基础”，来自于希腊语 <i class=\"foreign notranslate\">basis</i> “踏步，步伐，人们踩或站立的支架”，源自于 <i class=\"foreign notranslate\">bainein</i> “走、走路、走步”的 PIE 根词 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *gwa- \" class=\"crossreference notranslate\" href=\"/cn/word/*gwa-\">*gwa-</a> “去、来”。</p><p> “安全地面，从中进行行动”的军事意义可追溯至1860年。凝固学意义上的“与酸结合形成盐的化合物物质”(1810年)在法国化学家 Guillaume-François Rouelle(1703-1770)于1754年引入。 在炼金术中早期曾指“基本金属的合金”(15世纪末)。</p><p> “起点”在体育运动中的意义可追溯至1690年代，也可指“赛跑者的终点”(1812年)。作为标签或球类游戏中的“安全地点”，它于15世纪中叶被建议作为该游戏(后来的 <i class=\"foreign notranslate\">prisoner's base</i>)的名称。因此， <i class=\"foreign notranslate\"><a href=\"/cn/word/baseball\" title=\"Etymology, meaning and definition of baseball \" class=\"crossreference notranslate\">baseball</a>， <span class=\"foreign\">base-runner</span> (1867)，和 <span class=\"foreign notranslate\">base-hit</span> (1874)等名词词组都派生自此义。 \"为运作某事而依赖的资源\"的意义(如 <span class=\"foreign notranslate\">power-base</span> 、<span class=\"foreign notranslate\">data-base</span> 等)追溯至1959年。</i></p>"
+    },
+    {
+      "title": "basically<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adv.)</div>",
+      "html": "<p>\"在基本方面，根本上\"，1903年; 参见 <a title=\"Etymology, meaning and definition of basic \" class=\"crossreference notranslate\" href=\"/cn/word/basic#etymonline_v_5281\">basic</a> (adj.) + <a title=\"Etymology, meaning and definition of -ly \" class=\"crossreference notranslate\" href=\"/cn/word/-ly#etymonline_v_32027\">-ly</a> (2)。</p>"
+    }
+  ]
+}

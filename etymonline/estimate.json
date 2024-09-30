@@ -1,0 +1,23 @@
+{
+  "word": "estimate",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#29755\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">estimate</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1560年代，“估价”，源自拉丁语 <span class=\"foreign notranslate\">aestimatus</span> “确定价值”，比喻意义上是“珍视，尊重”，是 <span class=\"foreign notranslate\">aestimare</span> 的动名词（参见 <a href=\"/cn/word/esteem\" title=\"Etymology, meaning and definition of esteem \" class=\"crossreference notranslate\">esteem</a>（v.））。早期的意思是“心灵的力量”（15世纪中期）。 “近似判断”的意思来自1580年代。作为建筑商预计成本的声明，始于1796年。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    },
+    {
+      "title": "<h2 id=\"#29756\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">estimate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>\"估价，评估\"的意思始于1530年代，源自拉丁语 <i class=\"foreign notranslate\">aestimatus</i>，是 <i class=\"foreign notranslate\">aestimare</i> 的过去分词，意为\"评估，估值\"（参见 <a title=\"Etymology, meaning and definition of esteem \" class=\"crossreference notranslate\" href=\"/cn/word/esteem\">esteem</a>（v.））。\"形成大致概念\"的意思始于1660年代。相关词汇： <i class=\"foreign notranslate\">Estimated</i>； <i class=\"foreign notranslate\">estimates</i>； <i class=\"foreign notranslate\">estimating</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "esteem<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>15世纪中叶，源自于古法语 <i class=\"foreign notranslate\">estimer</i> “估价，确定”（14世纪），源自于拉丁语 <i class=\"foreign notranslate\">aestimare</i> “评价，确定价值，评估”，可能最终源自于 <i class=\"foreign notranslate\">*ais-temos</i> “切割铜片的人”，即铸造货币（但德瓦恩认为这个说法“不太可信”）。最初的用法类似于现在的 <i class=\"foreign notranslate\">estimate</i>； “价值，尊重”的意义出现于1530年代。相关词汇： <a title=\"Etymology, meaning and definition of Esteemed \" class=\"crossreference notranslate\" href=\"/cn/word/esteemed\">Esteemed</a>； <i class=\"foreign notranslate\">esteeming</i>。</p>"
+    },
+    {
+      "title": "guesstimate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>1902年，将 <a title=\"Etymology, meaning and definition of guess \" class=\"crossreference notranslate\" href=\"/cn/word/guess\">guess</a>（猜测）和 <a title=\"Etymology, meaning and definition of estimate \" class=\"crossreference notranslate\" href=\"/cn/word/estimate\">estimate</a>（估计）混合而成。相关词汇： <i class=\"foreign notranslate\">Guesstimated</i>（估计的）； <i class=\"foreign notranslate\">guesstimating</i>（正在估计）。名词用法始于1906年。</p>"
+    }
+  ]
+}

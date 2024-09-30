@@ -1,0 +1,19 @@
+{
+  "word": "electron",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5718\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">electron</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>“静电和量子的基本单位”，即 <a href=\"/cn/word/electric\" title=\"Etymology, meaning and definition of electric \" class=\"crossreference notranslate\">electric</a> 和 <span class=\"foreign notranslate\">-on</span> 的组合一词于1891年由爱尔兰物理学家乔治·斯通尼（George J. Stoney）（1826-1911年）创造，如 <a href=\"/cn/word/ion\" title=\"Etymology, meaning and definition of ion \" class=\"crossreference notranslate\">ion</a>（参见相关文献）所述。1932年， <span class=\"foreign notranslate\">Electron microscope</span> 将其翻译成了德语 <span class=\"foreign notranslate\">Elektronenmikroskop</span>。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "electric<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>17世纪40年代，首次由医生托马斯·布朗爵士（1605-1682）在英语中使用，显然是由英国物理学家威廉·吉尔伯特（1540-1603）在其著作 <i class=\"foreign notranslate\">\"De Magnete\"</i>（1600）中创造的现代拉丁词 <i class=\"foreign notranslate\">electricus</i>（字面意思是“类似琥珀”），源自拉丁词 <i class=\"foreign notranslate\">electrum</i> “琥珀”，来自希腊词 <i class=\"foreign notranslate\">ēlektron</i> “琥珀”（荷马、赫西奥德、希罗多德），也指“淡金色”（由1份银和4份金混合而成）； 其起源不详。</p><blockquote class=\"bq-origin\"><i class=\"foreign notranslate\">Vim illam electricam nobis placet appellare</i> [Gilbert]</blockquote><blockquote><i class=\"foreign notranslate\">Vim illam electricam nobis placet appellare</i> [吉尔伯特]</blockquote><p>最初，该词描述了像琥珀一样在摩擦时吸引其他物质的物质。意思为“带电”的含义可追溯到17世纪70年代； 这个物理力量之所以被称为“电”，是因为它最初是由摩擦琥珀产生的。在许多现代情况下，该词是 <a title=\"Etymology, meaning and definition of electrical \" class=\"crossreference notranslate\" href=\"/cn/word/electrical\">electrical</a> 的缩写。比喻意义可追溯到1793年。<i class=\"foreign notranslate\"><strong>Electric light</strong></i> 可追溯到1767年。<i class=\"foreign notranslate\"><strong>Electric toothbrush</strong></i> 首次记录于1936年； <i class=\"foreign notranslate\"><strong>electric blanket</strong></i> 于1930年。<i class=\"foreign notranslate\"><strong>Electric typewriter</strong></i> 可追溯到1958年。<i class=\"foreign notranslate\"><strong>Electric guitar</strong></i> 可追溯到1938年； <i class=\"foreign notranslate\"><strong>electric organ</strong></i> 在1885年被创造为一个假设未来仪器的名称。</p>"
+    },
+    {
+      "title": "ion<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1834年，由英国物理学家和化学家迈克尔·法拉第引入（由英国博学家威廉·休厄尔提出），源自希腊语 <i class=\"foreign notranslate\">ion</i>，是 <i class=\"foreign notranslate\">ienai</i> 的中性现在分词，意为“前往”，源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *ei- \" class=\"crossreference notranslate\" href=\"/cn/word/*ei-\">*ei-</a> “前往”。因为离子朝着相反电荷的电极移动而被称为离子。</p>"
+    }
+  ]
+}

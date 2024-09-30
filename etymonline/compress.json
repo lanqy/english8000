@@ -1,0 +1,23 @@
+{
+  "word": "compress",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#17285\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">compress</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>14世纪晚期，\"将某物压缩或塞进较小的空间，强制推入\"，源自古法语\"压缩，加压\"，来自于拉丁后期的 <span class=\"foreign notranslate\">compresser</span>，过去分词形式为 <span class=\"foreign notranslate\">compressus</span>，表示\"将某物紧压在一起\"，频繁使用了 <span class=\"foreign notranslate\">compressare</span>，词义为\"压缩\"的增强形式，源自于 <span class=\"foreign notranslate\">comprimere</span>，词义为\"挤压\"，由 <span class=\"foreign notranslate\">com</span> （见 <a href=\"/cn/word/com-\" title=\"Etymology, meaning and definition of com- \" class=\"crossreference notranslate\">com-</a> ）表示\"相互\"和 <span class=\"foreign notranslate\">premere</span> 表示\"压紧，紧固，覆盖，挤压\" (源自于 PIE 根词 <a href=\"/cn/word/*per-#etymonline_v_52727\" title=\"Etymology, meaning and definition of *per- \" rel=\"nofollow\" class=\"crossreference notranslate\">*per-</a> (4) \"打击\")。相关词汇： <span class=\"foreign notranslate\">Compressed</span>,  <span class=\"foreign notranslate\">compressing</span> 。 <span class=\"foreign notranslate\">Compressed air</span> 在1660年被证实。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    },
+    {
+      "title": "<h2 id=\"#46731\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">compress<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></h2>",
+      "html": "<p>1590年代在外科学中指“软质亚麻布或其他布料的块状物，用于在身体某个部位上施加压力（借助绷带）”，源自于 <a title=\"Etymology, meaning and definition of compress \" class=\"crossreference notranslate\" href=\"/cn/word/compress\">compress</a>（动词）。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "compression<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约于1400年，“压缩行为，被压缩的状态”，源自于14世纪的古法语 <i class=\"foreign notranslate\">compression</i>，直接源自拉丁语 <i class=\"foreign notranslate\">compressionem</i>（主格 <i class=\"foreign notranslate\">compressio</i>）“压紧”，动名词，来自 <i class=\"foreign notranslate\">comprimere</i> 的过去分词词干“挤压”（参见 <a title=\"Etymology, meaning and definition of compress \" class=\"crossreference notranslate\" href=\"/cn/word/compress\">compress</a>（v.））。相关词汇： <i class=\"foreign notranslate\">Compressional</i>。 <i class=\"foreign notranslate\">Compressional wave</i> 最早见于1887年。</p>"
+    },
+    {
+      "title": "compressor<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"压缩物或器具\"，1785年，指一种医疗器械，源自拉丁语 <i class=\"foreign notranslate\">compressor</i>，是 <i class=\"foreign notranslate\">comprimere</i> 的动作名词，意为“挤压”（参见 <a title=\"Etymology, meaning and definition of compress \" class=\"crossreference notranslate\" href=\"/cn/word/compress\">compress</a>（v.））。作为一种外科手术器械，始于1870年。作为 <i class=\"foreign notranslate\">air compressor</i> 的简称，始于1874年。</p>"
+    }
+  ]
+}

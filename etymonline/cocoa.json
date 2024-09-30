@@ -1,0 +1,19 @@
+{
+  "word": "cocoa",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#15764\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">cocoa</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>\"巧克力是磨碎美洲常青树 <span class=\"foreign notranslate\">cacao</span> 的烤种子制成的棕色粉末\"。该词最初指的是可可豆本身（1707），后来通过 <a href=\"/cn/word/coco\" title=\"Etymology, meaning and definition of coco \" class=\"crossreference notranslate\">coco</a> 的影响而混淆为 <a href=\"/cn/word/cacao\" title=\"Etymology, meaning and definition of cacao \" class=\"crossreference notranslate\">cacao</a>。当约翰逊词典的印刷商将 <span class=\"foreign notranslate\">coco</span> 和 <span class=\"foreign notranslate\">cocoa</span> 的词条合并后，与 <span class=\"foreign notranslate\">coco</span> 的混淆在英语中已经很常见，此后它从未得到纠正。从大约1800年开始， <span class=\"foreign notranslate\">Cocoa</span> 成为了正常的拼写方式。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "cacao<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"可可和巧克力的原料，1550年代，源自西班牙语 <i class=\"foreign notranslate\">cacao</i> “可可豆”，是纳瓦特尔语（阿兹特克语）<i class=\"foreign notranslate\">cacaua</i> 的改编形式，是 <i class=\"foreign notranslate\">cacahuatl</i> “可可树豆”的词根形式。</p>"
+    },
+    {
+      "title": "coco<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"棕榈树\"，1550年代，源自西班牙语和葡萄牙语 <i class=\"foreign notranslate\">coco</i>，意为“露齿而笑或面露怒容的脸”，因为贝壳底部的三个凹陷形状像猴子或人类的面孔。早期的词语是拉丁化的 <i class=\"foreign notranslate\">cocus</i>，有时被翻译成 <i class=\"foreign notranslate\">cocos</i>。</p>"
+    }
+  ]
+}

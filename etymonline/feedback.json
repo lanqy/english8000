@@ -1,0 +1,23 @@
+{
+  "word": "feedback",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#33055\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">feedback</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1920年，电子学意义上的“将部分输出信号返回到早期阶段的输入”，来自动词短语，源自 <a title=\"Etymology, meaning and definition of feed \" class=\"crossreference notranslate\" href=\"/cn/word/feed\">feed</a>（v.）+ <a title=\"Etymology, meaning and definition of back \" class=\"crossreference notranslate\" href=\"/cn/word/back\">back</a>（adv.）。转义用法，“有关过程结果的信息”可追溯至1955年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "back<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adv.)</div>",
+      "html": "<p>指“向后方或原来起始的地方；在过去；位置上落后”，无论是字面上或比喻意义上，这个词在14世纪晚期已经出现，是从<i class=\"foreign notranslate\">abak</i>简化而来，源自古英语<i class=\"foreign notranslate\">on bæc</i>“向后，在背后，退缩”（参见<a title=\"Etymology, meaning and definition of back \" class=\"crossreference notranslate\" href=\"/cn/word/back\">back</a>（名词），并比较<a title=\"Etymology, meaning and definition of aback \" class=\"crossreference notranslate\" href=\"/cn/word/aback\">aback</a>）。<i class=\"foreign notranslate\"><strong>give (something) back</strong></i> 的意思是再次给予，或者以相反的方向返回原先给予的东西。短语<i class=\"foreign notranslate\"><strong>back and forth</strong></i>意思是“来回地”，最早在1814年有记录。</p>"
+    },
+    {
+      "title": "feed<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">fedan</i> “滋养，给予食物，维持，培养”（及物动词），源自原始日耳曼语 <i class=\"foreign notranslate\">*fodjan</i>（也是 Old Saxon <i class=\"foreign notranslate\">fodjan</i>，Old Frisian <i class=\"foreign notranslate\">feda</i>，Dutch <i class=\"foreign notranslate\">voeden</i>，Old High German <i class=\"foreign notranslate\">fuotan</i>，Old Norse <i class=\"foreign notranslate\">foeða</i>，Gothic <i class=\"foreign notranslate\">fodjan</i> 的来源），源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *pa- \" class=\"crossreference notranslate\" href=\"/cn/word/*pa-\">*pa-</a> “喂养”。不及物意义上的“进食，吃”始于14世纪晚期。意为“供应食物”始于1818年。</p>"
+    },
+    {
+      "title": "biofeedback<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>也称 <i class=\"foreign notranslate\">bio-feedback</i>，意为“使用电子设备监测自动身体功能以训练人们控制它”，起源于1969年，由美国心理学家和超心理学家加德纳·墨菲（Gardner Murphy）创造，由 <a title=\"Etymology, meaning and definition of bio- \" class=\"crossreference notranslate\" href=\"/cn/word/bio-\">bio-</a> 和 <a title=\"Etymology, meaning and definition of feedback \" class=\"crossreference notranslate\" href=\"/cn/word/feedback\">feedback</a> 组成。</p>"
+    }
+  ]
+}

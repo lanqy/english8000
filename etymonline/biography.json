@@ -1,0 +1,19 @@
+{
+  "word": "biography",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#11172\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">biography</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1680年代，“个人生活史，作为文学的一个分支”，可能来自中世纪拉丁语 <span class=\"foreign notranslate\">biographia</span>，后来希腊语 <span class=\"foreign notranslate\">biographia</span> “生活描述”（在古典希腊语中没有这个词，那里的词是 <span class=\"foreign notranslate\">bios</span>），来自希腊语 <span class=\"foreign notranslate\">bios</span> “生命”（来自 PIE 词根 <a href=\"/cn/word/*gwei-\" title=\"Etymology, meaning and definition of *gwei- \" rel=\"nofollow\" class=\"crossreference notranslate\">*gwei-</a> “生活”）+ <span class=\"foreign notranslate\">graphia</span> “记录，账户”（见 <a href=\"/cn/word/-graphy\" title=\"Etymology, meaning and definition of -graphy \" class=\"crossreference notranslate\">-graphy</a>）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>“某个人生活史”的意思来自1791年。1854年出现了“任何生物的生命历程”的意思。没有一个常用的单词动词形式； 尝试过 <i class=\"foreign notranslate\">biographise</i>/<i class=\"foreign notranslate\">biographize</i>（1800年）、<i class=\"foreign notranslate\">biography</i>（1844年）、<i class=\"foreign notranslate\">biograph</i>（1849年）。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "autobiography<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"自传，一个人自己写的回忆录\"，1797年，由 <a title=\"Etymology, meaning and definition of auto- \" class=\"crossreference notranslate\" href=\"/cn/word/auto-\">auto-</a> 和 <a title=\"Etymology, meaning and definition of biography \" class=\"crossreference notranslate\" href=\"/cn/word/biography\">biography</a> 组成。相关词汇： <i class=\"foreign notranslate\">Autobiographical</i>； <i class=\"foreign notranslate\">autobiographer</i>； <i class=\"foreign notranslate\">autobiographic</i>。</p>"
+    },
+    {
+      "title": "biographer<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"写一个人生活和行动的描述的人\"，1715年，来自 <a title=\"Etymology, meaning and definition of biography \" class=\"crossreference notranslate\" href=\"/cn/word/biography\">biography</a> + <a title=\"Etymology, meaning and definition of -er \" class=\"crossreference notranslate\" href=\"/cn/word/-er#etymonline_v_26014\">-er</a> (1)。早期的词语是 <i class=\"foreign notranslate\">biographist</i> (1660年代)。被写作对象的 <i class=\"foreign notranslate\">Biographee</i> 来自1841年。</p><blockquote class=\"bq-origin\">Of every great and eminent character, part breaks forth into public view, and part lies hid in domestic privacy. Those qualities which have been exerted in any known and lasting performances may, at any distance of time, be traced and estimated; but silent excellencies are soon forgotten; and those minute peculiarities which discriminate every man from all others, if the are not recorded by those whom personal knowledge enabled to observe them, are irrecoverably lost. [Johnson, \"Life of Sir Thomas Browne,\" 1756]</blockquote><blockquote>每个伟大和杰出的人物，一部分展现在公众视野中，一部分则隐藏在家庭隐私中。那些在任何已知和持久的表现中发挥的品质可以在任何时间距离内被追踪和评估； 但是沉默的优点很快就会被遗忘； 如果不是那些个人知识使他们能够观察到这些特点的人记录下来，那些区分每个人与众不同的微小特点将不可挽回地丢失。[约翰逊，《托马斯·布朗爵士的生平》，1756年]</blockquote>"
+    }
+  ]
+}

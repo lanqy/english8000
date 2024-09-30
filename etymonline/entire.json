@@ -1,0 +1,19 @@
+{
+  "word": "entire",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#8732\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">entire</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>14世纪中期，用于事物，“整个的，完整的”，来自古法语 <i class=\"foreign notranslate\">entier</i> “整个的，未破损的，完整的”，源自拉丁语 <i class=\"foreign notranslate\">integrum</i> “完整”（主格 <i class=\"foreign notranslate\">integer</i>； 参见 <a title=\"Etymology, meaning and definition of integer \" class=\"crossreference notranslate\" href=\"/cn/word/integer\">integer</a>）。相关词汇： <i class=\"foreign notranslate\">Entireness</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "integer<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“整数”（相对于 <a title=\"Etymology, meaning and definition of fraction \" class=\"crossreference notranslate\" href=\"/cn/word/fraction\">fraction</a> 而言），1570年代，源自拉丁语 <i class=\"foreign notranslate\">integer</i>（形容词），意为“完整的，完全的”，比喻为“纯正的，正直的”，字面上意为“未被触碰”，由 <i class=\"foreign notranslate\">in-</i> “不”（见 <a title=\"Etymology, meaning and definition of in- \" class=\"crossreference notranslate\" href=\"/cn/word/in-\">in-</a>（1））和 <i class=\"foreign notranslate\">tangere</i> 的词根“触碰”组成（源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *tag- \" class=\"crossreference notranslate\" href=\"/cn/word/*tag-\">*tag-</a>，“触摸，把握”）。 在英语中早期的用法是作为形容词以拉丁意义使用，表示“完整的，全体的”（约1500年）。</p>"
+    },
+    {
+      "title": "entirely<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adv.)</div>",
+      "html": "<p>\"完全地，彻底地，充分地\"，源于14世纪中叶的 <a title=\"Etymology, meaning and definition of entire \" class=\"crossreference notranslate\" href=\"/cn/word/entire\">entire</a> + <a title=\"Etymology, meaning and definition of -ly \" class=\"crossreference notranslate\" href=\"/cn/word/-ly#etymonline_v_32027\">-ly</a> (2)。</p>"
+    }
+  ]
+}

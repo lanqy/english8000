@@ -1,0 +1,23 @@
+{
+  "word": "fragment",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#11859\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">fragment</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪早期，“小块或部分”，源自拉丁语 <i class=\"foreign notranslate\">fragmentum</i> “碎片，残余”，字面意思为“断掉的一块”，源自 <i class=\"foreign notranslate\">frangere</i> “打破”（来自 PIE 根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *bhreg- \" class=\"crossreference notranslate\" href=\"/cn/word/*bhreg-\">*bhreg-</a> “打破”）。</p>"
+    },
+    {
+      "title": "<h2 id=\"#43776\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">fragment<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1788年（隐含于 <i class=\"foreign notranslate\">fragmented</i>），源自 <a title=\"Etymology, meaning and definition of fragment \" class=\"crossreference notranslate\" href=\"/cn/word/fragment\">fragment</a>（名词）。1961年开始使用不及物动词。相关词汇： <i class=\"foreign notranslate\">Fragmenting</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "defragment<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>1992年，“通过重新将存储在磁盘上不同位置的部分合并起来，减少（计算机文件）的碎片化”，源自于 <a title=\"Etymology, meaning and definition of de- \" class=\"crossreference notranslate\" href=\"/cn/word/de-\">de-</a> 和 <a title=\"Etymology, meaning and definition of fragment  \" class=\"crossreference notranslate\" href=\"/cn/word/fragment\">fragment </a> (a.v.) 。相关词汇： <i class=\"foreign notranslate\">Defragmented</i>； <i class=\"foreign notranslate\">defragmenting</i>。</p>"
+    },
+    {
+      "title": "fragmentary<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1610年代开始出现，但直到19世纪初主要是词典中的词语，来自 <a title=\"Etymology, meaning and definition of fragment \" class=\"crossreference notranslate\" href=\"/cn/word/fragment\">fragment</a>（n.）+ <a title=\"Etymology, meaning and definition of -ary \" class=\"crossreference notranslate\" href=\"/cn/word/-ary\">-ary</a>。 <i class=\"foreign notranslate\">Fragmental</i> 自1798年开始使用。</p>"
+    }
+  ]
+}

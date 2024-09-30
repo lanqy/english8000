@@ -1,0 +1,23 @@
+{
+  "word": "confidential",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#28599\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">confidential</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>1759年，\"表示私人亲密关系的信任\"，源自拉丁语 <i class=\"foreign notranslate\">confidentia</i>（参见 <a title=\"Etymology, meaning and definition of confidence \" class=\"crossreference notranslate\" href=\"/cn/word/confidence\">confidence</a>）和 <a title=\"Etymology, meaning and definition of -al \" class=\"crossreference notranslate\" href=\"/cn/word/-al\">-al</a>（1）。\"意图保密的\"意义来自1773年； \"享有他人信任\"的意义来自1805年。相关词汇： <i class=\"foreign notranslate\">Confidentially</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "confidence<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约1400年，\"对他人的善意、真实性等的确信或信任\"，源自古法语 <i class=\"foreign notranslate\">confidence</i> 或直接源自拉丁语 <i class=\"foreign notranslate\">confidentia</i>，来自 <i class=\"foreign notranslate\">confidentem</i>（格位 <i class=\"foreign notranslate\">confidens</i>）\"坚定地信任，大胆的\"，现在分词形式为 <i class=\"foreign notranslate\">confidere</i> \"完全信任或依赖\"，来自 <i class=\"foreign notranslate\">com</i> 的同化形式，这里可能是一个强调前缀（参见 <a title=\"Etymology, meaning and definition of com- \" class=\"crossreference notranslate\" href=\"/cn/word/com-\">com-</a>），加上 <i class=\"foreign notranslate\">fidere</i> \"信任\"（来自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *bheidh- \" class=\"crossreference notranslate\" href=\"/cn/word/*bheidh-\">*bheidh-</a> \"信任，依赖，说服\"）。</p><p>从15世纪中叶开始，表示\"依靠自己的能力、资源或环境，自信\"。意思是\"对命题或断言的确定性，对事实的确信\"，始于1550年代。意思是\"秘密，私人通信\"，始于1590年代。与诈骗（参见 <a title=\"Etymology, meaning and definition of con \" class=\"crossreference notranslate\" href=\"/cn/word/con\">con</a>（形容词））的联系可追溯到19世纪中叶，源于虚假的\"可信度\"，这是游戏的关键。</p>"
+    },
+    {
+      "title": "confidentiality<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"保密性质\"，1830年； 参见 <a title=\"Etymology, meaning and definition of confidential \" class=\"crossreference notranslate\" href=\"/cn/word/confidential\">confidential</a> + <a title=\"Etymology, meaning and definition of -ity \" class=\"crossreference notranslate\" href=\"/cn/word/-ity\">-ity</a>。</p>"
+    },
+    {
+      "title": "-al<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(1)</div>",
+      "html": "<p>后缀，用于从名词或其他形容词中形成形容词，表示“属于，像，相关的”，中古英语 <i class=\"foreign notranslate\">-al</i>， <i class=\"foreign notranslate\">-el</i>，源自法语或直接源自拉丁语 <i class=\"foreign notranslate\">-alis</i>（参见 <a title=\"Etymology, meaning and definition of -al \" class=\"crossreference notranslate\" href=\"/cn/word/-al\">-al</a>（2））。</p>"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "electricity",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#32267\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">electricity</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1640年代（布朗，来自吉尔伯特的现代拉丁语），源自 <a title=\"Etymology, meaning and definition of electric \" class=\"crossreference notranslate\" href=\"/cn/word/electric\">electric</a>（见上）+ <a title=\"Etymology, meaning and definition of -ity \" class=\"crossreference notranslate\" href=\"/cn/word/-ity\">-ity</a>。最初是指摩擦。</p><blockquote class=\"bq-origin\">Electricity seems destined to play a most important part in the arts and industries. The question of its economical application to some purposes is still unsettled, but experiment has already proved that it will propel a street car better than a gas jet and give more light than a horse. [Ambrose Bierce, \"The Cynic's Word Book,\" 1906]</blockquote><blockquote>电力似乎注定要在艺术和工业中扮演极其重要的角色。它在某些方面的经济应用问题仍未解决，但实验已经证明，它将比煤气灯更好地推动有轨电车，并提供比马更多的光。[安布罗斯·比尔斯，《愤世嫉俗者的词典》，1906年]</blockquote>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "electric<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>17世纪40年代，首次由医生托马斯·布朗爵士（1605-1682）在英语中使用，显然是由英国物理学家威廉·吉尔伯特（1540-1603）在其著作 <i class=\"foreign notranslate\">\"De Magnete\"</i>（1600）中创造的现代拉丁词 <i class=\"foreign notranslate\">electricus</i>（字面意思是“类似琥珀”），源自拉丁词 <i class=\"foreign notranslate\">electrum</i> “琥珀”，来自希腊词 <i class=\"foreign notranslate\">ēlektron</i> “琥珀”（荷马、赫西奥德、希罗多德），也指“淡金色”（由1份银和4份金混合而成）； 其起源不详。</p><blockquote class=\"bq-origin\"><i class=\"foreign notranslate\">Vim illam electricam nobis placet appellare</i> [Gilbert]</blockquote><blockquote><i class=\"foreign notranslate\">Vim illam electricam nobis placet appellare</i> [吉尔伯特]</blockquote><p>最初，该词描述了像琥珀一样在摩擦时吸引其他物质的物质。意思为“带电”的含义可追溯到17世纪70年代； 这个物理力量之所以被称为“电”，是因为它最初是由摩擦琥珀产生的。在许多现代情况下，该词是 <a title=\"Etymology, meaning and definition of electrical \" class=\"crossreference notranslate\" href=\"/cn/word/electrical\">electrical</a> 的缩写。比喻意义可追溯到1793年。<i class=\"foreign notranslate\"><strong>Electric light</strong></i> 可追溯到1767年。<i class=\"foreign notranslate\"><strong>Electric toothbrush</strong></i> 首次记录于1936年； <i class=\"foreign notranslate\"><strong>electric blanket</strong></i> 于1930年。<i class=\"foreign notranslate\"><strong>Electric typewriter</strong></i> 可追溯到1958年。<i class=\"foreign notranslate\"><strong>Electric guitar</strong></i> 可追溯到1938年； <i class=\"foreign notranslate\"><strong>electric organ</strong></i> 在1885年被创造为一个假设未来仪器的名称。</p>"
+    },
+    {
+      "title": "-ity<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>这个词缀用于从形容词中构成抽象名词，表示“成为______的状态或品质”，源自中古英语的 <i class=\"foreign notranslate\">-ite</i>，来自古法语的 <i class=\"foreign notranslate\">-ete</i>（现代法语为 <i class=\"foreign notranslate\">-ité</i>），直接源自拉丁语的 <i class=\"foreign notranslate\">-itatem</i>（主格为 <i class=\"foreign notranslate\">-itas</i>），表示状态或品质的后缀，由 <i class=\"foreign notranslate\">-i-</i>（来自词干或连接词）和常见的抽象后缀 <i class=\"foreign notranslate\">-tas</i> 组成（参见 <a title=\"Etymology, meaning and definition of -ty \" class=\"crossreference notranslate\" href=\"/cn/word/-ty\">-ty</a>（2））。</p><blockquote class=\"bq-origin\">Roughly, the word in <i class=\"foreign notranslate\">-ity</i> usually means the quality of being what the adjective describes, or concretely an instance of the quality, or collectively all the instances; &amp; the word in <i class=\"foreign notranslate\">-ism</i> means the disposition, or collectively all those who feel it. [Fowler]</blockquote><blockquote>大致上，以 <i class=\"foreign notranslate\">-ity</i> 结尾的词通常表示形容词所描述的品质，或具体的品质实例，或所有实例的集合； 以 <i class=\"foreign notranslate\">-ism</i> 结尾的词表示倾向或所有感受到这种倾向的人的集合。[福勒]</blockquote>"
+    }
+  ]
+}

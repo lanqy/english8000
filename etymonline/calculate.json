@@ -1,0 +1,19 @@
+{
+  "word": "calculate",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#27600\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">calculate</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>1560年代，“通过计算确定，通过数学手段估算”，源自拉丁语 <i class=\"foreign notranslate\">calculatus</i>，是 <i class=\"foreign notranslate\">calculare</i> 的过去分词，“计算，估算”，源自 <i class=\"foreign notranslate\">calculus</i>（参见 <a title=\"Etymology, meaning and definition of calculus \" class=\"crossreference notranslate\" href=\"/cn/word/calculus\">calculus</a>）。它取代了早期的 <i class=\"foreign notranslate\">calculen</i>（14世纪中叶），源自古法语 <i class=\"foreign notranslate\">calculer</i>。</p><p>“计划，设计”的意思可追溯至1650年代； 因此，“目的，意图”和“想，猜测”（1830年），都是美国的习语。相关词汇： <i class=\"foreign notranslate\">Calculable</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "calculus<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p> \"代数符号系统处理问题的数学方法，可追溯至1660年代，源自拉丁语的“ <i class=\"foreign notranslate\">calculus</i> ”，原指“用作算账的小石子”，此为“ <i class=\"foreign notranslate\">calx</i> ”（所有格为“ <i class=\"foreign notranslate\">calcis</i> ”）的小号词，而“ <i class=\"foreign notranslate\">calx</i> ”则表示“石灰石”（参见 <a title=\"Etymology, meaning and definition of chalk \" class=\"crossreference notranslate\" href=\"/cn/word/chalk#etymonline_v_8397\">chalk</a> (n.)）。现代数学上的意义可简化为“ <i class=\"foreign notranslate\"><strong>differential calculus</strong></i> ”。</p><p>在医学上，这个词也于1732年起用来表示肾结石等，随后一般指“在动物体内意外形成的凝聚物”，比如牙菌斑。</p>"
+    },
+    {
+      "title": "calculated<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1722年，意为“合适的，恰当的”； 1796年，意为“事先设计的”； 过去分词形容词，源自 <a title=\"Etymology, meaning and definition of calculate \" class=\"crossreference notranslate\" href=\"/cn/word/calculate\">calculate</a>（动词）。相关词汇： <i class=\"foreign notranslate\">Calculatedly</i>。</p>"
+    }
+  ]
+}

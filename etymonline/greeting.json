@@ -1,0 +1,15 @@
+{
+  "word": "greeting",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#33796\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">greeting</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">greting</i> “问候”，动名词来自 <i class=\"foreign notranslate\">gretan</i>（见 <a title=\"Etymology, meaning and definition of greet \" class=\"crossreference notranslate\" href=\"/cn/word/greet\">greet</a>）。相关词： <i class=\"foreign notranslate\">Greetings</i>。首次记录的 <i class=\"foreign notranslate\">greeting card</i> 出现于1876年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "greet<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">gretan</i> “接触”在任何意义上（“攻击，搭讪”以及“问候，欢迎”和“触摸，抓住，处理”，如 <i class=\"foreign notranslate\">hearpan gretan</i> “弹奏竖琴”），“寻找，接近”，来自西日耳曼语 <i class=\"foreign notranslate\">*grotjan</i>（源头还包括古撒克逊语 <i class=\"foreign notranslate\">grotian</i>，古弗里西亚语 <i class=\"foreign notranslate\">greta</i>，荷兰语 <i class=\"foreign notranslate\">groeten</i>，古高地德语 <i class=\"foreign notranslate\">gruozen</i>，德语 <i class=\"foreign notranslate\">grüßen</i> “问候，打招呼”），起源不明。</p><p>在英语、德语和荷兰语中，主要意义已变为“问候”，但这个词曾经有更广泛的意义。也许最初是“回响”（通过“引起说话”的概念），是 Proto-Germanic <i class=\"foreign notranslate\">*grætanan</i> 的使役形式，是 Old English <i class=\"foreign notranslate\">grætan</i>（Anglian <i class=\"foreign notranslate\">gretan</i>）“哭泣，哀悼”的词根，来自 PIE <i class=\"foreign notranslate\">*gher-</i>（2）“呼喊”。<i class=\"foreign notranslate\">Greet</i> 在苏格兰和北英格兰方言中仍然可以表示“哭泣，哀悼”，尽管这可能来自不同的词根。<i class=\"foreign notranslate\">Grætan</i> 可能也是 <a title=\"Etymology, meaning and definition of regret \" class=\"crossreference notranslate\" href=\"/cn/word/regret\">regret</a> 中第二个元素的来源。相关： <i class=\"foreign notranslate\">Greeted</i>； <a title=\"Etymology, meaning and definition of greeting \" class=\"crossreference notranslate\" href=\"/cn/word/greeting\">greeting</a>。</p>"
+    }
+  ]
+}

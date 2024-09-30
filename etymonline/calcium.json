@@ -1,0 +1,19 @@
+{
+  "word": "calcium",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#590\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">calcium</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>金属元素，由英国化学家亨弗莱·戴维爵士于1808年创造，他是第一个成功分离它的人，源自拉丁语 <i class=\"foreign notranslate\">calx</i>（属格 <i class=\"foreign notranslate\">calcis</i>）“石灰石”（见 <a title=\"Etymology, meaning and definition of chalk \" class=\"crossreference notranslate\" href=\"/cn/word/chalk\">chalk</a>（n.））+金属元素后缀 <a title=\"Etymology, meaning and definition of -ium \" class=\"crossreference notranslate\" href=\"/cn/word/-ium\">-ium</a>。相关词汇： <i class=\"foreign notranslate\">Calcic</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "chalk<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>古英语 <i class=\"foreign notranslate\">cealc</i> “白垩，软白石灰岩； 石灰，灰泥； 卵石”，是从拉丁语 <i class=\"foreign notranslate\">calx</i>（2）借来的，意为“石灰石，石灰（碎石灰），小石头”，源自希腊语 <i class=\"foreign notranslate\">khalix</i> “小卵石”，许多人将其追溯到一个 PIE 词根，意为“分裂，破碎”，但 Beekes 认为“没有令人信服的词源学解释”。</p><p>大多数日耳曼语中的同源词仍然具有“石灰石”的意义，但在英语中， <i class=\"foreign notranslate\">chalk</i> 被转化为在岛南丰富地发现的不透明的白色软石灰岩。现代拼写法来自14世纪早期。拉丁语中“白垩”的词是 <i class=\"foreign notranslate\">creta</i>，也是来源不明。由于在酒馆和酒吧中使用白垩标记来记录饮料的信用或记录游戏得分，因此有许多比喻或扩展意义。</p>"
+    },
+    {
+      "title": "-ium<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>化学中用于构造元素名称的词缀，源自拉丁语形容词后缀 <i class=\"foreign notranslate\">-ium</i>（中性形式为 <i class=\"foreign notranslate\">-ius</i>），在拉丁语中形成了金属名称（<i class=\"foreign notranslate\">ferrum</i> “铁”， <i class=\"foreign notranslate\">aurum</i> “金”等）。18世纪后期，化学家开始关注用词来指示其化学性质的物质命名。Berzelius 于1811年提议用现代拉丁语形成所有元素名称。由于一些最近发现的金属元素的名称已经是拉丁语形式（<i class=\"foreign notranslate\">uranium</i>， <i class=\"foreign notranslate\">chromium</i>， <i class=\"foreign notranslate\">borium</i> 等），因此保持了用 <i class=\"foreign notranslate\">-ium</i> 或 <i class=\"foreign notranslate\">-um</i> 命名金属元素的模式（如 <i class=\"foreign notranslate\">cadmium</i>， <i class=\"foreign notranslate\">lithium</i>， <i class=\"foreign notranslate\">plutonium</i> 等； <a title=\"Etymology, meaning and definition of helium \" class=\"crossreference notranslate\" href=\"/cn/word/helium\">helium</a> 是一个例外）。</p>"
+    }
+  ]
+}

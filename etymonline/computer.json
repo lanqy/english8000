@@ -1,0 +1,19 @@
+{
+  "word": "computer",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#28505\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">computer</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1640年代，“计算者，计算员，从 <a title=\"Etymology, meaning and definition of compute \" class=\"crossreference notranslate\" href=\"/cn/word/compute\">compute</a>（v.）衍生的代理名词。</p><p>指代“计算机”（任何类型）的意思源于1897年； 在现代用法中，“可编程数字电子设备，用于执行数学或逻辑操作”，1945年以这个名字出现，而该设备本身在1937年在理论上被描述为 <span class=\"foreign notranslate\">Turing machine</span>。<a href=\"/cn/word/ENIAC\" title=\"Etymology, meaning and definition of ENIAC \" class=\"crossreference notranslate\">ENIAC</a>（1946）通常被认为是第一个。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p><i class=\"foreign notranslate\">Computer literacy</i> 记录于1970年； 在20世纪80年代初，试图建立 <i class=\"foreign notranslate\">computerate</i>（作为形容词，模仿 <i class=\"foreign notranslate\">literate</i>）的尝试未能成功。 <i class=\"foreign notranslate\">Computerese</i> “程序员的行话”始于1960年，以及 <i class=\"foreign notranslate\">computerize</i> 和 <i class=\"foreign notranslate\">computerization</i>。</p><blockquote class=\"bq-origin\">WASHINGTON (AP) — A New York Congressman says the use of computers to record personal data on individuals, such as their credit background, \"is just frightening to me.\" [news article, March 17, 1968]</blockquote><blockquote>华盛顿（美联社）——一位纽约国会议员表示，使用计算机记录个人数据，例如他们的信用背景，“对我来说只是令人恐惧的。” [新闻文章，1968年3月17日]</blockquote><p>先前的“计算者”的词包括 <i class=\"foreign notranslate\">computator</i>（约1600年），源自拉丁语 <i class=\"foreign notranslate\">computator</i>; <i class=\"foreign notranslate\">computist</i>（14世纪晚期）“精通历法或年代学计算的人”。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "compute<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>17世纪30年代，“通过计算确定”，源自16世纪的法语 <i class=\"foreign notranslate\">computer</i>，源自拉丁语 <i class=\"foreign notranslate\">computare</i> “计算，总结，计算在一起”，由 <i class=\"foreign notranslate\">com</i> “一起，共同”（见 <a title=\"Etymology, meaning and definition of com- \" class=\"crossreference notranslate\" href=\"/cn/word/com-\">com-</a>)和 <i class=\"foreign notranslate\">putare</i> “推算”，最初是指“修剪”，源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *pau- \" class=\"crossreference notranslate\" href=\"/cn/word/*pau-#etymonline_v_52750\">*pau-</a> (2) “砍，打，盖章”。与 <a title=\"Etymology, meaning and definition of count \" class=\"crossreference notranslate\" href=\"/cn/word/count#etymonline_v_19153\">count</a> (v.)是同源词。相关词汇： <i class=\"foreign notranslate\">Computed</i>； <i class=\"foreign notranslate\">computing</i>。</p>"
+    },
+    {
+      "title": "ENIAC<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>ENIAC 的首字母缩写，意为“电子数字积分器和计算机”，由约翰·W·莫奇利（John W. Mauchly Jr.）、J·普雷斯珀·埃克特（J. Presper Eckert Jr.）和 J·G·布雷纳德（J.G. Brainerd）于1946年在宾夕法尼亚大学建造。它耗资40万美元，使用了18,000个电子管，放置在一个30英尺乘50英尺的房间里。</p>"
+    }
+  ]
+}

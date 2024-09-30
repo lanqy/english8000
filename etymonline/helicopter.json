@@ -1,0 +1,19 @@
+{
+  "word": "helicopter",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#9121\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">helicopter</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1861年，源自法语 <span class=\"foreign notranslate\">hélicoptère</span> “用以使飞机垂直上升的装置”，因此指“由螺旋桨推动的飞行器”。该词源于希腊文 <span class=\"foreign notranslate\">helix</span> (属格 <span class=\"foreign notranslate\">helikos</span>)，表示“螺旋”，参见 <a href=\"/cn/word/helix\" title=\"Etymology, meaning and definition of helix \" class=\"crossreference notranslate\">helix</a>，再结合 <span class=\"foreign notranslate\">pteron</span> “翅膀”（源自 PIE 语系词根 <a href=\"/cn/word/*pet-\" title=\"Etymology, meaning and definition of *pet- \" rel=\"nofollow\" class=\"crossreference notranslate\">*pet-</a>，“冲向，飞翔”）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>原本的设想是通过螺旋状翼面得到升力，但并未成功。该词由儒勒·凡尔纳和莱特兄弟所使用，到了1918年直升机开始被研发时，该词被转移至其现代意义上的直升机。在弗兰芒语中本土化为 <i class=\"foreign notranslate\">wentelwiek</i> “具有旋转叶片的”。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "helix<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>“螺旋形物体”，1560年代，最初指科林斯柱顶部的螺旋卷，源自拉丁语 <i class=\"foreign notranslate\">helix</i> “螺旋，建筑中的卷”，来自希腊语 <i class=\"foreign notranslate\">helix</i>（属格 <i class=\"foreign notranslate\">helikos</i>），这个词用于任何螺旋形状的物体（手镯、卷发、葡萄藤的卷须、蛇的盘绕），与 <i class=\"foreign notranslate\">eilein</i> “转动、扭曲、卷起”有关，源自 PIE <i class=\"foreign notranslate\">*wel-ik-</i>，来自词根 <i class=\"foreign notranslate\">*wel-</i>（3）“转动、旋转”，源自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *wel- \" class=\"crossreference notranslate\" href=\"/cn/word/*wel-\">*wel-</a>（3）“转动、旋转”。经典复数形式为 <i class=\"foreign notranslate\">helices</i>。</p>"
+    },
+    {
+      "title": "gyrocopter<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1915年，由 <a title=\"Etymology, meaning and definition of gyro- \" class=\"crossreference notranslate\" href=\"/cn/word/gyro-\">gyro-</a> 和 <a title=\"Etymology, meaning and definition of helicopter \" class=\"crossreference notranslate\" href=\"/cn/word/helicopter\">helicopter</a> 的词尾组成。</p>"
+    }
+  ]
+}

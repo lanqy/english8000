@@ -1,0 +1,23 @@
+{
+  "word": "demand",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5554\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">demand</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>14世纪后期，<i class=\"foreign notranslate\">demaunden</i>意为“提问，进行询问”，来源于古法语<i class=\"foreign notranslate\">demander</i>（12世纪）“请求；要求”，来自拉丁语<i class=\"foreign notranslate\">demandare</i>“委托，赋予使命”（在中世纪拉丁语中，“请求，要求”），来自<i class=\"foreign notranslate\">de-</i>“完全”（见<a title=\"Etymology, meaning and definition of de- \" class=\"crossreference notranslate\" href=\"/cn/word/de-\">de-</a>）+ <i class=\"foreign notranslate\">mandare</i>“命令”（见<a title=\"Etymology, meaning and definition of mandate \" class=\"crossreference notranslate\" href=\"/cn/word/mandate\">mandate</a>（名词））。</p><p>“坚决或迫切地请求”这个意思是从15世纪初出现的，起源于盎格鲁-法国法律用语（“作为权利而要求”）。到1748年时，“需要某物是必要的或有用的”这一含义已经形成。相关形式有：<i class=\"foreign notranslate\">Demanded</i>；<a title=\"Etymology, meaning and definition of demanding \" class=\"crossreference notranslate\" href=\"/cn/word/demanding\">demanding</a>。</p>"
+    },
+    {
+      "title": "<h2 id=\"#42097\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">demand<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></h2>",
+      "html": "<p>源于13世纪末期的<i class=\"foreign notranslate\">demaunde</i>，意为“一个问题”，来自古法语<i class=\"foreign notranslate\">demande</i>，源自动词<i class=\"foreign notranslate\">demander</i>“请求；要求”（参见<a title=\"Etymology, meaning and definition of demand \" class=\"crossreference notranslate\" href=\"/cn/word/demand\">demand</a>（动词））。这个词表示“一种请求、要求，因为拥有某种权利或假设的权利而要求所寻求的事物”，还表示“被要求或要求的事物、无论权利如何的讹诈或让步”，大约从1300年开始就有了。</p><p>在政治经济学意义上，指“购买和拥有的欲望，加上执行这个欲望的手段”（与<i class=\"foreign notranslate\">supply</i>对应），在1776年亚当·斯密的著作中有记载。意为“被追求的状态”（特别是指消费者求购）从1711年就有了。<i class=\"foreign notranslate\">In demand</i>“非常被追捧”在1825年左右就有记载；<i class=\"foreign notranslate\">on demand</i>“在被请求时”来自1690年代。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "demanding<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"要求的，坚持要求的，习惯性地提出要求的\"，1873年（隐含在 <i class=\"foreign notranslate\">demandingly</i> 中），是 <a title=\"Etymology, meaning and definition of demand \" class=\"crossreference notranslate\" href=\"/cn/word/demand\">demand</a>（v.）的现在分词形容词。</p>"
+    },
+    {
+      "title": "mandate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约于1500年，指“命令，司法或法律命令”，源自法语 <i class=\"foreign notranslate\">mandat</i>（15世纪），直接源自拉丁语 <i class=\"foreign notranslate\">mandatum</i> “委托，命令，命令”，是 <i class=\"foreign notranslate\">mandare</i> 的中性过去分词的名词用法，意为“交给某人”，可能来自 <i class=\"foreign notranslate\">manus</i> “手”（来自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *man- \" class=\"crossreference notranslate\" href=\"/cn/word/*man-\">*man-</a>（2）“手”）+ <i class=\"foreign notranslate\">dare</i> “给予”（来自 PIE 词根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *do- \" class=\"crossreference notranslate\" href=\"/cn/word/*do-\">*do-</a> “给予”）。</p><p>政治意义上的“选民据称授予胜选者所倡导的政策或口号的批准”始于1796年。国际联盟的意义上，“由联盟颁发的委托，授权选定的大国管理和开发特定目的的领土”（也用于指定的领土）始于1919年。</p>"
+    }
+  ]
+}

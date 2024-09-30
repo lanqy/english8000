@@ -1,0 +1,23 @@
+{
+  "word": "Mexico",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#25747\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">Mexico</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div></span>",
+      "html": "<p>墨西哥共和国位于美国南部，源自西班牙语，来自纳瓦特尔语（阿兹特克语）<i class=\"foreign notranslate\">mexihco</i>，最初指的是现今墨西哥城周围的墨西哥山谷。在1821年独立于西班牙后，它成为了这个国家的名称（之前是 <i class=\"foreign notranslate\">New Spain</i>）。</p><blockquote class=\"bq-origin\">The etymology of this is opaque. Because of the difference in vowel length, it cannot be derived from ME-TL 'maguey.' The sequence XIH also differs in vowel length from XIC-TLI 'navel,' which has been proposed as a component element. The final element is locative -C(O). [Kartunnen]</blockquote><blockquote>这个词的词源不明。由于元音长度的差异，它不能从 ME-TL 'maguey'（龙舌兰）中派生出来。序列 XIH 的元音长度也不同于 XIC-TLI 'navel'（肚脐），后者曾被提出作为组成部分。最后一个元素是定位词-C(O)。[Kartunnen]</blockquote>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "Mexican<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>约1600年（名词）\"墨西哥的本地人或居民\"； 到1640年代（形容词）\"墨西哥的本地人或与其有关的\"，源自 <a title=\"Etymology, meaning and definition of Mexico \" class=\"crossreference notranslate\" href=\"/cn/word/Mexico\">Mexico</a> + <a title=\"Etymology, meaning and definition of -an \" class=\"crossreference notranslate\" href=\"/cn/word/-an\">-an</a>。在美国西南部，它被用作一种普遍的贬义或轻视的形容词，就像在东北部一样， <i class=\"foreign notranslate\">Dutch</i> ： <i class=\"foreign notranslate\">Mexican strawberries</i> \"豆子\"； <i class=\"foreign notranslate\">Mexican standoff</i> \"没有人赢的战斗\"； <i class=\"foreign notranslate\">Mexican breakfast</i> \"一杯水和一支香烟\"等。<i class=\"foreign notranslate\">Mexican standoff</i> \"僵局\"记录于1876年。</p><blockquote>\n\"走吧！\"他严厉地说道。\"我们称之为僵局； 你失去了钱，但你保住了生命！\" [来自 J. Harvey Smith 的《墨西哥僵局》（\"A Mexican Stand-Off\"），发表于加利福尼亚州图拉里县时报，1876年6月24日]\n</blockquote><p><br></p>"
+    },
+    {
+      "title": "New Mexico<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>新墨西哥州是以前西班牙（后来的墨西哥）的 <i class=\"foreign notranslate\">Nuevo México</i> 省为基础的美国州。该名称可以追溯到1560年代，是对墨西哥城周围的墨西哥山谷的引用（参见 <a title=\"Etymology, meaning and definition of Mexico \" class=\"crossreference notranslate\" href=\"/cn/word/Mexico\">Mexico</a>）。该州于1848年作为领土被并入美国，1912年成为州。</p>"
+    },
+    {
+      "title": "Tex-Mex<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1914年，源自 <a title=\"Etymology, meaning and definition of Texas \" class=\"crossreference notranslate\" href=\"/cn/word/Texas\">Texas</a> 和 <a title=\"Etymology, meaning and definition of Mexico \" class=\"crossreference notranslate\" href=\"/cn/word/Mexico\">Mexico</a>。早期用于指代“墨西哥背景的德克萨斯人”的名词是 <i class=\"foreign notranslate\">Texican</i>（1863年）。</p>"
+    }
+  ]
+}

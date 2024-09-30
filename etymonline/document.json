@@ -1,0 +1,23 @@
+{
+  "word": "document",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#13883\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">document</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪初，“教义”； 15世纪晚期，“教学，指导”（现已过时），源自古法语 <span class=\"foreign notranslate\">document</span>（13世纪）“课程，书面证据”，直接源自拉丁语 <span class=\"foreign notranslate\">documentum</span> “例子，证明，教训”，在中世纪拉丁语中指“官方书面文件，权威文件”，源自 <span class=\"foreign notranslate\">docere</span> “展示，教导，使知道”，最初的意思是“使显得正确”，是 <span class=\"foreign notranslate\">decere</span> “合适，适当”的使役形式，源自 PIE 词根 <a href=\"/cn/word/*dek-\" title=\"Etymology, meaning and definition of *dek- \" rel=\"nofollow\" class=\"crossreference notranslate\">*dek-</a> “接受，认可”。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>“提供证明或证据的书面或印刷文件”的意思始于18世纪初，因此“任何带有可读写或铭刻的文字的东西”都可以称为“<i class=\"foreign notranslate\">Documents</i>”。</p>"
+    },
+    {
+      "title": "<h2 id=\"#45262\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">document<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1640年代，“以权威教导”的意义现已过时； 参见 <a title=\"Etymology, meaning and definition of document \" class=\"crossreference notranslate\" href=\"/cn/word/document\">document</a>（n.）。“用文件证据支持”的意义始于1711年。相关词汇： <i class=\"foreign notranslate\">Documented</i>； <i class=\"foreign notranslate\">documenting</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "documentary<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1788年，“与文件有关或源自文件”的意思，来自 <a title=\"Etymology, meaning and definition of document \" class=\"crossreference notranslate\" href=\"/cn/word/document\">document</a>（n.）+ <a title=\"Etymology, meaning and definition of -ary \" class=\"crossreference notranslate\" href=\"/cn/word/-ary\">-ary</a>。1921年开始表示“事实性的，旨在提供某事的记录”，最初是指电影，来自法语 <i class=\"foreign notranslate\">film documentaire</i>（1919年左右）。名词（<i class=\"foreign notranslate\">documentary film</i> 的缩写）于1935年被证实。</p>"
+    },
+    {
+      "title": "documentation<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1754年，“警告，指导，教学”，现已过时，动作名词来自 <a title=\"Etymology, meaning and definition of document \" class=\"crossreference notranslate\" href=\"/cn/word/document\">document</a>（动词），或者来自中世纪拉丁语 <i class=\"foreign notranslate\">documentationem</i>（格 <i class=\"foreign notranslate\">documentio</i>）“提醒”，源自拉丁语 <i class=\"foreign notranslate\">documentum</i> “例子，证明，教训”，在中世纪拉丁语中是“官方书面文件，权威文件”（参见 <a title=\"Etymology, meaning and definition of document \" class=\"crossreference notranslate\" href=\"/cn/word/document\">document</a>（名词））。意思是“准备或使用文献证据”，始于1888年。科学意义上的“信息文件的收集和分类”始于1927年。</p>"
+    }
+  ]
+}

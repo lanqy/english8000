@@ -1,0 +1,19 @@
+{
+  "word": "e-mail",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5763\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">e-mail</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div></span>",
+      "html": "<p>1982年，缩写自 <i class=\"foreign notranslate\">electronic mail</i>（1977年； 见 <a title=\"Etymology, meaning and definition of electronic \" class=\"crossreference notranslate\" href=\"/cn/word/electronic\">electronic</a> + <a title=\"Etymology, meaning and definition of mail \" class=\"crossreference notranslate\" href=\"/cn/word/mail\">mail</a>（n.1））； 这导致了对旧系统的蔑视性应用 <i class=\"foreign notranslate\">snail mail</i>（1983年）。</p><blockquote class=\"bq-origin\">Even aerial navigation in 1999 was found too slow to convey and deliver the mails. The pneumatic tube system was even swifter, and with such facilities at hand it is not surprising that people in San Francisco received four daily editions of the Manhattan journals, although the distance between Sandy Hook and the Golden Gate is a matter of 3,600 miles. [\"Looking Forward,\" Arthur Bird, 1899]</blockquote><blockquote>即使在1999年，空中导航也被发现传递和递送邮件太慢了。气压管系统更快，有了这样的设施，旧金山的人们每天收到四份曼哈顿报纸的最新版，尽管桑迪胡克和金门之间的距离是3600英里。[\"Looking Forward,\" Arthur Bird, 1899]</blockquote><p>美联社风格指南将其缩写为 <i class=\"foreign notranslate\">email</i> 2011年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "electronic<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1901年，\"与电子有关的\"； 见 <a title=\"Etymology, meaning and definition of electron \" class=\"crossreference notranslate\" href=\"/cn/word/electron\">electron</a> + <a title=\"Etymology, meaning and definition of -ic \" class=\"crossreference notranslate\" href=\"/cn/word/-ic\">-ic</a>； 1930年作为\"与 <a title=\"Etymology, meaning and definition of electronics \" class=\"crossreference notranslate\" href=\"/cn/word/electronics\">electronics</a> 有关的\"。相关词汇： <i class=\"foreign notranslate\">Electronically</i>。</p>"
+    },
+    {
+      "title": "mail<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.1)</div>",
+      "html": "<p>\"邮件，信函\"，公元1200年左右，原指\"旅行袋，用于存放个人物品的小袋子\"，现已不再使用，源自古法语 <i class=\"foreign notranslate\">male</i> \"钱包，袋子，捆绑物\"，来自法兰克语 <i class=\"foreign notranslate\">*malha</i> 或其他日耳曼语源，源自原始日耳曼语 <i class=\"foreign notranslate\">*malho-</i>（源头还包括古高地德语 <i class=\"foreign notranslate\">malaha</i> \"钱包，袋子\"，中古荷兰语 <i class=\"foreign notranslate\">male</i> \"袋子\"），源自原始印欧语 <i class=\"foreign notranslate\">*molko-</i> \"皮肤，袋子\"。</p><p>这个意义被扩展到\"装满信件的袋子\"（1650年代； 可能通过诸如 <i class=\"foreign notranslate\">a mail of letters</i>（1654）之类的短语），以及\"携带邮件的人或车辆\"（1650年代）。从那时起，扩展到一般的\"信件和包裹\"（1680年代）和\"公共邮递系统\"（1690年代）。</p><p>作为报纸名称，最早见于1789年。在19世纪的英国， <i class=\"foreign notranslate\">mail</i> 指的是寄往国外的信件，而寄往本国的信件则称为 <i class=\"foreign notranslate\">post</i>。\"个人一批信件\"的意义始于1844年，最初出现在美国英语中。美国英语中的 <i class=\"foreign notranslate\">Mail slot</i> \"建筑物外部门上的狭长开口，用于接收邮件投递\"，最早见于1893年。OED 将其定义为\"信函槽口\"。</p>"
+    }
+  ]
+}

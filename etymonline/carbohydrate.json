@@ -1,0 +1,19 @@
+{
+  "word": "carbohydrate",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5363\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">carbohydrate</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>一种有机化合物的总称，由碳原子以6的倍数和氢氧按照水的比例组成，1851年，源自 <a href=\"/cn/word/carbo-\" title=\"Etymology, meaning and definition of carbo- \" class=\"crossreference notranslate\">carbo-</a>，表示\"一起\"的词根，加上 <a href=\"/cn/word/hydrate\" title=\"Etymology, meaning and definition of hydrate \" class=\"crossreference notranslate\">hydrate</a>（名词），表示某些物质与水结合时产生的化合物，源自希腊词根 <span class=\"foreign notranslate\">hydor</span> \"水\"（源自 PIE 词根 <a href=\"/cn/word/*wed-\" title=\"Etymology, meaning and definition of *wed- \" rel=\"nofollow\" class=\"crossreference notranslate\">*wed-</a>（1）\"水； 湿润\"的后缀形式）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><blockquote class=\"bq-origin\">The name <i class=\"foreign notranslate\">carbohydrate</i> was given to these compounds because, in composition, they are apparently <i class=\"foreign notranslate\">hydrates</i> of <i class=\"foreign notranslate\">carbon</i>. In structure, however, they are far more complex. [Flood]</blockquote><blockquote>这些化合物被称为 <i class=\"foreign notranslate\">carbohydrate</i>，因为在组成上，它们显然是 <i class=\"foreign notranslate\">hydrates</i> 的 <i class=\"foreign notranslate\">carbon</i>。然而，在结构上，它们要复杂得多。[Flood]</blockquote>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "hydrate<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"水和另一种化学物质形成的化合物\"，1802年出现，源自法语 <i class=\"foreign notranslate\">hydrate</i>，是法国化学家 Joseph-Louis Proust（1754-1826）于1800年左右创造的词汇，源自希腊语 <i class=\"foreign notranslate\">hydr-</i>，即 <i class=\"foreign notranslate\">hydor</i> 的词干“水”，源自 PIE 根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *wed- \" class=\"crossreference notranslate\" href=\"/cn/word/*wed-\">*wed-</a>（1）“水; 湿润”的带后缀形式。此前，该术语也曾用于形成与 H2O 相同类型的化合物。 </p>"
+    },
+    {
+      "title": "carb<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1942年作为 <a title=\"Etymology, meaning and definition of carburetor \" class=\"crossreference notranslate\" href=\"/cn/word/carburetor\">carburetor</a> 的缩写； 约2000年作为 <a title=\"Etymology, meaning and definition of carbohydrate \" class=\"crossreference notranslate\" href=\"/cn/word/carbohydrate\">carbohydrate</a> 的简称。</p>"
+    }
+  ]
+}

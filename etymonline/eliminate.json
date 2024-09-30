@@ -1,0 +1,23 @@
+{
+  "word": "eliminate",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5737\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">eliminate</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>1560年代，“推出，移除，赶出门外”，源自拉丁语 <i class=\"foreign notranslate\">eliminatus</i>，是 <i class=\"foreign notranslate\">eliminare</i> 的过去分词，“推出门外，驱逐”，源自 <i class=\"foreign notranslate\">ex limine</i>，“从门槛上”，由 <i class=\"foreign notranslate\">ex</i> “离开，出去”（见 <a title=\"Etymology, meaning and definition of ex- \" class=\"crossreference notranslate\" href=\"/cn/word/ex-\">ex-</a>)和 <i class=\"foreign notranslate\">limine</i>， <i class=\"foreign notranslate\">limen</i> 的与格，“门槛”（见 <a title=\"Etymology, meaning and definition of limit \" class=\"crossreference notranslate\" href=\"/cn/word/limit\">limit</a>（n.））。</p><p>起初用于字面意义； “排除，抛弃或忽视不需要的或不必要的”意义可追溯至1714年； “从身体中排出废物”的意义可追溯至约1795年。相关词汇： <i class=\"foreign notranslate\">Eliminated</i>； <i class=\"foreign notranslate\">eliminating</i>； <i class=\"foreign notranslate\">eliminative</i>； <i class=\"foreign notranslate\">eliminatory</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "limit<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约在1400年，指“边界，边境”的意思，来自于古法语 <i class=\"foreign notranslate\">limite</i>，“边界”，源自于拉丁语 <i class=\"foreign notranslate\">limitem</i>（主格 <i class=\"foreign notranslate\">limes</i>），“边界，限制，边缘，田间堤坝”，可能与 <i class=\"foreign notranslate\">limen</i> “门槛”有关，也可能来自于 <i class=\"foreign notranslate\">limus</i> “横向的，斜的”，其起源不确定。最初指领土； 一般意义始于15世纪早期。俚语意义上的“极端，最大程度的想象”来自于1904年。</p>"
+    },
+    {
+      "title": "elimination<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>大约1600年，“一种驱逐”，是 <a title=\"Etymology, meaning and definition of eliminate \" class=\"crossreference notranslate\" href=\"/cn/word/eliminate\">eliminate</a> 的动作名词。意思是“排泄废物”，始于1855年。</p>"
+    },
+    {
+      "title": "ex-<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>这是一个词缀，在英语中通常表示“从……中出来”，但也可以表示“向上，完全，剥夺，没有”和“前者”； 源自拉丁语 <i class=\"foreign notranslate\">ex</i>，意为“从……中出来； 从那时起，自从； 根据； 关于”，源自原始印欧语言 <i class=\"foreign notranslate\">*eghs</i>，意为“出来”（也是高卢语 <i class=\"foreign notranslate\">ex-</i>，古爱尔兰语 <i class=\"foreign notranslate\">ess-</i>，古教会斯拉夫语 <i class=\"foreign notranslate\">izu</i>，俄语 <i class=\"foreign notranslate\">iz</i> 的来源）。在某些情况下，也来自希腊语同源词 <i class=\"foreign notranslate\">ex</i>， <i class=\"foreign notranslate\">ek</i>。原始印欧语言 <i class=\"foreign notranslate\">*eghs</i> 有比较级形式 <i class=\"foreign notranslate\">*eks-tero</i> 和最高级形式 <i class=\"foreign notranslate\">*eks-t(e)r-emo-</i>。在某些情况下，缩写为 <i class=\"foreign notranslate\">e-</i>，在 <i class=\"foreign notranslate\">-b-</i>， <i class=\"foreign notranslate\">-d-</i>， <i class=\"foreign notranslate\">-g-</i>，辅音 <i class=\"foreign notranslate\">-i-</i>， <i class=\"foreign notranslate\">-l-</i>， <i class=\"foreign notranslate\">-m-</i>， <i class=\"foreign notranslate\">-n-</i>， <i class=\"foreign notranslate\">-v-</i> 前（如 <i class=\"foreign notranslate\">elude</i>， <i class=\"foreign notranslate\">emerge</i>， <i class=\"foreign notranslate\">evaporate</i> 等）。</p>"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "word": "committee",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#17234\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">committee</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪后期，“被任命处理任何事务的人，被委托处理某事的人”，来自盎格鲁-法语 <i class=\"foreign notranslate\">commite</i>； 参见 <a title=\"Etymology, meaning and definition of commit \" class=\"crossreference notranslate\" href=\"/cn/word/commit\">commit</a> + <a title=\"Etymology, meaning and definition of -ee \" class=\"crossreference notranslate\" href=\"/cn/word/-ee\">-ee</a>。</p><p>从1620年代开始，“被任命或选举的一组人，被委托处理某些特定业务或职能”； 这是一个新的构词法，或者是旧名词的扩展意义。相关： <i class=\"foreign notranslate\">Committeeman; committeeship</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "commit<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>14世纪末，“给予指示，委托”，源自拉丁语 <i class=\"foreign notranslate\">committere</i> “联合，连接，结合； 将...带在一起”，来自 <i class=\"foreign notranslate\">com</i> “与，一起”（见 <a title=\"Etymology, meaning and definition of com- \" class=\"crossreference notranslate\" href=\"/cn/word/com-\">com-</a> ）+ <i class=\"foreign notranslate\">mittere</i> “释放，放开； 派遣，投掷”（见 <a title=\"Etymology, meaning and definition of mission \" class=\"crossreference notranslate\" href=\"/cn/word/mission\">mission</a>）。</p><p>英语中现代意义范围的演变并不完全清楚。在拉丁语中，“犯罪、做、执行（尤其是令人遗憾的事情）”的意义是古老的； 在英语中，它可追溯至15世纪中叶。意指“通过正式授权将某人交付（监狱、精神病院等）”，最早可追溯到15世纪。</p><p>从1530年代开始，表示“完全信任自己”； 从1770年开始表示“通过不可撤销的预备行为使某人处于危险之中”。及物动词的使用（ <i class=\"foreign notranslate\">commit oneself</i> 的替代）最早记录于1982年，可能受到了存在主义用法（1948年）的影响。 <i class=\"foreign notranslate\">commitment</i>  成为翻译萨特的 <i class=\"foreign notranslate\">engagement</i> “情感和道德参与”的用语。</p>"
+    },
+    {
+      "title": "subcommittee<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>也称 <i class=\"foreign notranslate\">sub-committee</i>，大约在1600年左右，来自 <a title=\"Etymology, meaning and definition of sub- \" class=\"crossreference notranslate\" href=\"/cn/word/sub-\">sub-</a> 和 <a title=\"Etymology, meaning and definition of committee \" class=\"crossreference notranslate\" href=\"/cn/word/committee\">committee</a>。</p>"
+    },
+    {
+      "title": "-ee<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\"></div>",
+      "html": "<p>在法律英语中（以及模仿它的语言中），这是一个词形成元素，代表了过去分词作为名词时的盎格鲁-法语 <i class=\"foreign notranslate\">-é</i> 结尾（比较 <a title=\"Etymology, meaning and definition of -y \" class=\"crossreference notranslate\" href=\"/cn/word/-y\">-y</a>（3））。由于这些有时与 <i class=\"foreign notranslate\">-or</i> 的代理名词相结合，这两个后缀成为一对，用于表示行动的发起者和接收者。</p><p>不要与法语 <i class=\"foreign notranslate\">-ée</i> 混淆，它是一个女性名词结尾（如 <i class=\"foreign notranslate\">fiancée</i>），来自拉丁语 <i class=\"foreign notranslate\">-ata</i>。</p>"
+    }
+  ]
+}

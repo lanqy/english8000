@@ -1,0 +1,23 @@
+{
+  "word": "amplifier",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#26212\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">amplifier</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>1540年代； 来自 <a title=\"Etymology, meaning and definition of amplify \" class=\"crossreference notranslate\" href=\"/cn/word/amplify\">amplify</a> 的动作名词。电子意义来自1914年； 缩写形式 <i class=\"foreign notranslate\">amp</i> 来自1967年。替代词 <i class=\"foreign notranslate\">stentorphone</i>（1921年）没有流行起来。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "amplify<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>15世纪初，“扩大，扩展，增加”，源自15世纪的古法语 <i class=\"foreign notranslate\">amplifier</i>，源自拉丁语 <i class=\"foreign notranslate\">amplificare</i> “扩大”，源自 <i class=\"foreign notranslate\">amplus</i> “大”（见 <a title=\"Etymology, meaning and definition of ample \" class=\"crossreference notranslate\" href=\"/cn/word/ample\">ample</a>）和 <i class=\"foreign notranslate\">facere</i> “制造，做”（源自 PIE 根 <a rel=\"nofollow\" title=\"Etymology, meaning and definition of *dhe- \" class=\"crossreference notranslate\" href=\"/cn/word/*dhe-\">*dhe-</a> “设置，放置”）。 “增加音量或数量”的意思始于1570年代。在引用无线电技术时，使用限制似乎出现在大约1915年。</p>"
+    },
+    {
+      "title": "amp<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1886年作为 <a title=\"Etymology, meaning and definition of ampere \" class=\"crossreference notranslate\" href=\"/cn/word/ampere\">ampere</a> 的缩写； 1967年作为 <a title=\"Etymology, meaning and definition of amplifier \" class=\"crossreference notranslate\" href=\"/cn/word/amplifier\">amplifier</a> 的缩写。</p>"
+    },
+    {
+      "title": "preamplifier<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"一种旨在放大弱信号并将其传递到另一个放大器的设备\"，1929年，来自 <a title=\"Etymology, meaning and definition of pre- \" class=\"crossreference notranslate\" href=\"/cn/word/pre-\">pre-</a> + <a title=\"Etymology, meaning and definition of amplifier \" class=\"crossreference notranslate\" href=\"/cn/word/amplifier\">amplifier</a>。缩写形式 <i class=\"foreign notranslate\"><strong>pre-amp</strong></i> 于1957年被证实。</p>"
+    }
+  ]
+}

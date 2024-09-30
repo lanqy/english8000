@@ -1,0 +1,19 @@
+{
+  "word": "heading",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#34201\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">heading</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>约于1300年，指“斩首”，来自于 <a title=\"Etymology, meaning and definition of head \" class=\"crossreference notranslate\" href=\"/cn/word/head\">head</a>（动词）的现在分词。指“向某个方向前进”意义约于1600年出现。指“文本部分开头的标题”意义约于1849年出现。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "head<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>“处于领导地位或领先地位”，约1200年，来自于 <a title=\"Etymology, meaning and definition of head \" class=\"crossreference notranslate\" href=\"/cn/word/head\">head</a>（n.）。意思是“朝向头部（方向）”，约1600年。相关词汇： <i class=\"foreign notranslate\">headed</i>， <a title=\"Etymology, meaning and definition of heading \" class=\"crossreference notranslate\" href=\"/cn/word/heading\">heading</a>。这个词最早作为动词的意思是“砍头”（古英语 <i class=\"foreign notranslate\">heafdian</i>）。动词短语 <i class=\"foreign notranslate\">head up</i> “监督，指导”可追溯到1930年。</p>"
+    },
+    {
+      "title": "letter-head<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>同时，“ <i class=\"foreign notranslate\">letterhead</i> ”的意思是“印有标志或地址的纸张”，起源于1868年的“ <i class=\"foreign notranslate\">letterheading</i> ”（1867年的简称）。它的起源来自于打印业中的“ <a title=\"Etymology, meaning and definition of letter \" class=\"crossreference notranslate\" href=\"/cn/word/letter\">letter</a> ”和“ <a title=\"Etymology, meaning and definition of heading \" class=\"crossreference notranslate\" href=\"/cn/word/heading\">heading</a> ”。这样称呼是因为它被印在纸张的“头部”。</p>"
+    }
+  ]
+}

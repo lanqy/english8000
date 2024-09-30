@@ -1,0 +1,23 @@
+{
+  "word": "finance",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5950\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">finance</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>约在1400年，指“结束、解决、报应”的意思，源自于古法语 <span class=\"foreign notranslate\">finance</span> “结束、宽恕、支付、偿还债务的协议”（13世纪），是由 <span class=\"foreign notranslate\">finer</span> “结束、解决争端或债务”这个动作名词构成的，而 <span class=\"foreign notranslate\">fin</span> 则来源于 <a href=\"/cn/word/fine\" title=\"Etymology, meaning and definition of fine \" class=\"crossreference notranslate\">fine</a>（名词），意为“罚款”。与中世纪拉丁语 <span class=\"foreign notranslate\">finis</span> “支付结算、罚款或税收”相似。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>这个词的概念是指通过“满足”某些应付的东西来“结束”（比较希腊语 <i class=\"foreign notranslate\">telos</i> “结束”； 复数 <i class=\"foreign notranslate\">tele</i> “应付的服务、国家征收的税款、财政手段”）。法语的意义逐渐被引入英语中：“赎金”（15世纪中期），“税收”（15世纪晚期）； “管理金钱、货币业务科学”的意义首次出现在英语中，记录于1770年。</p>"
+    },
+    {
+      "title": "<h2 id=\"#39955\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">finance<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>15世纪后期，“赎回”（已过时），源自 <a title=\"Etymology, meaning and definition of finance \" class=\"crossreference notranslate\" href=\"/cn/word/finance\">finance</a>（n.）。“管理资金”的意思记录于1827年； “提供资金”的意思记录于1866年。相关词汇： <i class=\"foreign notranslate\">Financed</i>; <i class=\"foreign notranslate\">financing</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "fine<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>约1200年，“终结，结束；生命的结束”，源自古法语<i class=\"foreign notranslate\">fin</i>“终点，限制，边界；死亡；费用，付款，财务，金钱”（10世纪），来自拉丁语<i class=\"foreign notranslate\">finis</i>“结束”（参见<a title=\"Etymology, meaning and definition of finish \" class=\"crossreference notranslate\" href=\"/cn/word/finish\">finish</a>（动词）），在中世纪拉丁语中也指“了结付款，罚金或税收”。</p><p>现代意义“对某个过错或疏忽强制性金钱赔偿”的含义，源自“支付金钱以免受惩罚或赔偿损失的总和”这一概念（14世纪中叶，与13世纪晚期的盎格鲁-法语中的相同含义）以及如<i class=\"foreign notranslate\">to make fine</i>“达成和解，解决事宜”（大约1300年）这样的短语。首次记录将“作为某些违法行为的处罚而处以的金钱总额”这一含义是在16世纪20年代。</p>"
+    },
+    {
+      "title": "finances<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"pecuniary resources, funds in money,\" 1730, 模仿法语同源词，来自 <a title=\"Etymology, meaning and definition of finance \" class=\"crossreference notranslate\" href=\"/cn/word/finance\">finance</a>（名词）的复数形式。</p>"
+    }
+  ]
+}

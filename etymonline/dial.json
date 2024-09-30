@@ -1,0 +1,23 @@
+{
+  "word": "dial",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#8513\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">dial</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>15世纪初，“日晷，通过在刻度表面上投射的阴影来指示一天中的时间的仪器”，更早的是“指南针上的刻度盘”（14世纪中叶），源自古法语 <span class=\"foreign notranslate\">dyal</span>，显然来自中世纪拉丁语 <span class=\"foreign notranslate\">dialis</span> “每日”，源自拉丁语 <span class=\"foreign notranslate\">dies</span> “日”，源自 PIE 词根 <a href=\"/cn/word/*dyeu-\" title=\"Etymology, meaning and definition of *dyeu- \" rel=\"nofollow\" class=\"crossreference notranslate\">*dyeu-</a> “发光”。这个词可能是从类似中世纪拉丁语 <span class=\"foreign notranslate\">rota dialis</span> “每日轮”这样的短语中提取出来的。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>它演变为指任何圆盘或面板，指针在其上移动以指示与其连接的机械的某些信息。指“时钟（或后来是手表）的表面，上面标有小时和分钟，指针在其上移动”的意义始于15世纪中叶。</p><p>电话的意义上，“带有数字和字母的圆盘，可以旋转以建立连接”的概念始于1879年，这导致了 <i class=\"foreign notranslate\">dial tone</i>（1921年），“开始拨号的信号”。<i class=\"foreign notranslate\">Dial-plate</i> 可追溯到17世纪80年代。</p>"
+    },
+    {
+      "title": "<h2 id=\"#46288\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">dial<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>1650年代，“使用表盘或指南针工作； 用表盘或类似表盘的东西测量”，源自 <a title=\"Etymology, meaning and definition of dial \" class=\"crossreference notranslate\" href=\"/cn/word/dial\">dial</a>（名词）。“旋转电话的拨号盘以指示要建立连接的号码”的意义始于1921年。相关词汇： <i class=\"foreign notranslate\">Dialed</i>； <i class=\"foreign notranslate\">dialing</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "dialling<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>同时，dialing（拨号）于1560年代指“制作日晷的艺术”，因此也指“用日晷测量时间的科学”； 是 <a title=\"Etymology, meaning and definition of dial \" class=\"crossreference notranslate\" href=\"/cn/word/dial\">dial</a> 的动名词。相关词汇： <i class=\"foreign notranslate\">Dialist</i>。</p>"
+    },
+    {
+      "title": "dial-up<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>1961年，指通过公共电话网络进行数据传输的链接，来自动词短语； 参见 <a title=\"Etymology, meaning and definition of dial \" class=\"crossreference notranslate\" href=\"/cn/word/dial\">dial</a>（v.）+ <a title=\"Etymology, meaning and definition of up \" class=\"crossreference notranslate\" href=\"/cn/word/up\">up</a>（adv.）。</p>"
+    }
+  ]
+}

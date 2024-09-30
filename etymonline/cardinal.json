@@ -1,0 +1,27 @@
+{
+  "word": "cardinal",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#5375\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">cardinal</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>早在12世纪初，“构成神圣学院的教会王子之一”，源自中世纪拉丁语 <i class=\"foreign notranslate\">cardinalis</i>，最初作为名词“罗马主要（<i class=\"foreign notranslate\">cardinal</i>）教堂的长老之一”，缩写为 <i class=\"foreign notranslate\">cardinalis ecclesiae Romanae</i> 或 <i class=\"foreign notranslate\">episcopus cardinalis</i>，源自拉丁语 <i class=\"foreign notranslate\">cardinalis</i>（形容词）“主要的，首要的，基本的”（参见 <a title=\"Etymology, meaning and definition of cardinal \" class=\"crossreference notranslate\" href=\"/cn/word/cardinal\">cardinal</a>（形容词））。</p><p>北美洲的鸣禽（<i class=\"foreign notranslate\">Cardinalis virginianus</i>）可追溯到1670年代，因其鲜红色而得名，类似于红衣主教的红袍。</p>"
+    },
+    {
+      "title": "<h2 id=\"#33702\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">cardinal<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></h2>",
+      "html": "<p>\"首要的，关键的\"，14世纪初，来自拉丁语 <i class=\"foreign notranslate\">cardinalis</i> \"主要的，首要的，基本的\"，是一个比喻用法，字面意思是\"与铰链有关的\"，来自 <i class=\"foreign notranslate\">cardo</i>（属格 <i class=\"foreign notranslate\">cardinis</i>）\"某物转动或依赖的支点； 天空的极点\"，最初是\"门铰链\"，起源不明。相关： <i class=\"foreign notranslate\">Cardinally</i>。</p><p><i class=\"foreign notranslate\"><strong>cardinal numbers</strong></i>（1590年代）是\"一、二、三\"等，与 <a title=\"Etymology, meaning and definition of ordinal \" class=\"crossreference notranslate\" href=\"/cn/word/ordinal\">ordinal</a> 数\"第一、第二、第三\"等相对； 它们被称为主要数字，序数依赖于它们。</p><p><i class=\"foreign notranslate\"><strong>cardinal points</strong></i>（1540年代）是北、南、东、西。 <i class=\"foreign notranslate\"><strong>cardinal sins</strong></i> 自1600年左右被称为基本罪。 <i class=\"foreign notranslate\"><strong>cardinal virtues</strong></i>（14世纪初）分为自然（公正、谨慎、节制、勇气）和神学（信仰、希望、慈善）。自然的是最初的古典美德，被基督徒修改。但在中古英语中，通常只有前四个被视为基本美德：</p><blockquote>Of þe uour uirtues cardinales spekeþ moche þe yealde philosofes. [\"Ayenbite of Inwyt,\" c. 1340]</blockquote><p>通过类比，中古英语中的 <i class=\"foreign notranslate\">cardinal winds</i>（14世纪晚期）、<i class=\"foreign notranslate\">cardinal signs</i>（标记春分、秋分和夏至、冬至的四个黄道带星座，14世纪晚期）等，该形容词获得了与数字四的关联。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "ordinal<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>14世纪初，“教堂礼拜仪式顺序的书籍”，源自于晚期拉丁语形容词 <i class=\"foreign notranslate\">ordinalis</i>（见 <a title=\"Etymology, meaning and definition of ordinal \" class=\"crossreference notranslate\" href=\"/cn/word/ordinal\">ordinal</a>（形容词）），在中世纪拉丁语中被用作名词。</p>"
+    },
+    {
+      "title": "cardinal number<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1590年代，“one, two, three”等，与“first, second, third”等 <a title=\"Etymology, meaning and definition of ordinal \" class=\"crossreference notranslate\" href=\"/cn/word/ordinal\">ordinal</a> 序数不同； 因为它们是主要数字，序数依赖于它们（参见 <a title=\"Etymology, meaning and definition of cardinal \" class=\"crossreference notranslate\" href=\"/cn/word/cardinal\">cardinal</a>（形容词））。</p>"
+    },
+    {
+      "title": "cardinality<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1520年代，“红衣主教的状态”，源自于 <a title=\"Etymology, meaning and definition of cardinal \" class=\"crossreference notranslate\" href=\"/cn/word/cardinal\">cardinal</a>（n.）+ <a title=\"Etymology, meaning and definition of -ity \" class=\"crossreference notranslate\" href=\"/cn/word/-ity\">-ity</a>。数学意义来自于1935年（参见 <a title=\"Etymology, meaning and definition of cardinal \" class=\"crossreference notranslate\" href=\"/cn/word/cardinal\">cardinal</a>（adj.））。</p>"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "word": "circuit",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#13718\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">circuit</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></span>",
+      "html": "<p>14世纪末，“周长； 周边，围绕（一个区域）的线； 圆形或曲折的路线”，源自14世纪的古法语 <span class=\"foreign notranslate\">circuit</span> “一圈； 一次旅行（围绕某物）”，源自拉丁语 <span class=\"foreign notranslate\">circuitus</span> “绕行”，源自 <span class=\"foreign notranslate\">circuire</span>， <span class=\"foreign notranslate\">circumire</span> “绕行”，源自 <span class=\"foreign notranslate\">circum</span> “圆形”（参见 <a href=\"/cn/word/circum-\" title=\"Etymology, meaning and definition of circum- \" class=\"crossreference notranslate\">circum-</a>) + <span class=\"foreign notranslate\">ire</span> “去”（源自 PIE 词根 <a href=\"/cn/word/*ei-\" title=\"Etymology, meaning and definition of *ei- \" rel=\"nofollow\" class=\"crossreference notranslate\">*ei-</a> “去”）。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins><p>从约1400年开始，“在某些限制内封闭的空间”。因此，“在任何涉及定期旅行的业务中完成的区域（1570年代），特别是涉及法官从一个地方到另一个地方旅行的司法任务； 指巡回演员所走的路线从1834年开始。因此， <i class=\"foreign notranslate\">circuit-rider</i> “骑马巡回传教的卫理公会牧师”（1834年起）； <i class=\"foreign notranslate\">ride circuit</i> “走弯路”始于1650年代。</p><p>电学意义上的“保持两极之间电流的排列”始于1746年。<i class=\"foreign notranslate\">Circuit-breaker</i> “自动断开电路的装置”记录于1874年。相关词： <i class=\"foreign notranslate\">Circuital</i>。</p>"
+    },
+    {
+      "title": "<h2 id=\"#47203\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">circuit<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>\"绕着走\"，早在15世纪，来自 <a title=\"Etymology, meaning and definition of circuit \" class=\"crossreference notranslate\" href=\"/cn/word/circuit\">circuit</a>（名词）。相关词汇： <i class=\"foreign notranslate\">Circuited</i>； <i class=\"foreign notranslate\">circuiting</i>。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "circuitous<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>\"绕着走的，间接的\"，1660年代，来自中世纪拉丁语 <i class=\"foreign notranslate\">circuitus</i> \"充满迂回的方式\"，源自拉丁语 <i class=\"foreign notranslate\">circuitus</i> \"绕着走\"（参见 <a title=\"Etymology, meaning and definition of circuit \" class=\"crossreference notranslate\" href=\"/cn/word/circuit\">circuit</a>（名词））。相关词汇： <i class=\"foreign notranslate\">Circuitously</i>； <i class=\"foreign notranslate\">circuitousness</i>。</p>"
+    },
+    {
+      "title": "circuitry<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"电路的计划或系统\"，1946年，来自 <a title=\"Etymology, meaning and definition of circuit \" class=\"crossreference notranslate\" href=\"/cn/word/circuit\">circuit</a>（n.）+ <a title=\"Etymology, meaning and definition of -ry \" class=\"crossreference notranslate\" href=\"/cn/word/-ry\">-ry</a>。</p>"
+    }
+  ]
+}

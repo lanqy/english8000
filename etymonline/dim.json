@@ -1,0 +1,23 @@
+{
+  "word": "dim",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#8581\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">dim</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div></span>",
+      "html": "<p>古英语中的 <i class=\"foreign notranslate\">dimm</i> 意为“黑暗的，阴郁的，模糊的； 不清晰可见的”，源自原始日耳曼语 <i class=\"foreign notranslate\">*dimbaz</i>（也源自古诺尔斯语 <i class=\"foreign notranslate\">dimmr</i>，古弗里斯兰语 <i class=\"foreign notranslate\">dim</i>，古高地德语 <i class=\"foreign notranslate\">timber</i> “黑暗的，黑色的，阴沉的”）。在日耳曼语族之外没有被发现。</p><p>早在13世纪初，用于形容眼睛“视力不清晰”。从14世纪初开始用于形容声音； 用于形容光线“不明亮，微弱发光”的意思也始于14世纪初。现代俚语中“理解力迟钝，愚蠢”的意义始于1892年； “愚蠢的”意义也出现在中古英语（13世纪中叶）。相关词汇： <span class=\"foreign notranslate\">Dimly</span>； <span class=\"foreign notranslate\">dimness</span>。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    },
+    {
+      "title": "<h2 id=\"#46787\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">dim<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></h2>",
+      "html": "<p>\"早在13世纪， <i class=\"foreign notranslate\">dimmen</i>（指眼睛）就开始出现“变得看不清楚”的意思，可能源自古英语，与 <a title=\"Etymology, meaning and definition of dim \" class=\"crossreference notranslate\" href=\"/cn/word/dim\">dim</a>（形容词）有关。14世纪初开始出现“变得暗淡、模糊或不清晰，逐渐消失”的意思。及至14世纪末，出现了“使变暗淡、模糊或不清晰”的及物动词。相关词汇： <i class=\"foreign notranslate\">Dimmed</i>； <i class=\"foreign notranslate\">dimming</i>。</p>\""
+    }
+  ],
+  "relate": [
+    {
+      "title": "bedim<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div>",
+      "html": "<p>\"使变暗，模糊，变暗\"，1560年代，来自 <a title=\"Etymology, meaning and definition of be- \" class=\"crossreference notranslate\" href=\"/cn/word/be-\">be-</a> + <a title=\"Etymology, meaning and definition of dim \" class=\"crossreference notranslate\" href=\"/cn/word/dim\">dim</a>。相关词汇： <i class=\"foreign notranslate\">Bedimmed</i>； <i class=\"foreign notranslate\">bedimming</i>。</p>"
+    },
+    {
+      "title": "dimmer<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>\"使变暗的人或物\"，1822年，来自 <a title=\"Etymology, meaning and definition of dim \" class=\"crossreference notranslate\" href=\"/cn/word/dim\">dim</a>（动词）的代词。关于减少电灯亮度的机制，始于1905年。</p>"
+    }
+  ]
+}

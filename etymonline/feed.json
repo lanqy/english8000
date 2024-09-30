@@ -1,0 +1,23 @@
+{
+  "word": "feed",
+  "wordRoot": [
+    {
+      "title": "<span id=\"#1195\" class=\"scroll-m-16 text-3xl font-bold flex items-center\"><h1 class=\"inline !mb-1 scroll-m-16 text-3xl font-bold\">feed</h1><div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(v.)</div></span>",
+      "html": "<p>古英语 <span class=\"foreign notranslate\">fedan</span> “滋养，给予食物，维持，培养”（及物动词），源自原始日耳曼语 <span class=\"foreign notranslate\">*fodjan</span>（也是 Old Saxon <span class=\"foreign notranslate\">fodjan</span>，Old Frisian <span class=\"foreign notranslate\">feda</span>，Dutch <span class=\"foreign notranslate\">voeden</span>，Old High German <span class=\"foreign notranslate\">fuotan</span>，Old Norse <span class=\"foreign notranslate\">foeða</span>，Gothic <span class=\"foreign notranslate\">fodjan</span> 的来源），源自 PIE 词根 <a href=\"/cn/word/*pa-\" title=\"Etymology, meaning and definition of *pa- \" rel=\"nofollow\" class=\"crossreference notranslate\">*pa-</a> “喂养”。不及物意义上的“进食，吃”始于14世纪晚期。意为“供应食物”始于1818年。</p><ins class=\"adsbygoogle relative inline-block transition-all inline-block h-[250px] w-[300px]\" data-ad-slot=\"4000736339\" data-adtest=\"off\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>"
+    },
+    {
+      "title": "<h2 id=\"#39317\" class=\"scroll-m-16 text-3xl font-bold flex items-center\">feed<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div></h2>",
+      "html": "<p>\"喂养行为\"，1570年代，来自 <a title=\"Etymology, meaning and definition of feed \" class=\"crossreference notranslate\" href=\"/cn/word/feed\">feed</a>（动词）。意思是\"动物食品\"，最早见于1580年代。\"豪华的餐食\"的意思来自1808年。关于机器，\"提供原材料的行为或系统\"，最早见于1892年。</p>"
+    }
+  ],
+  "relate": [
+    {
+      "title": "fed<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(adj.)</div>",
+      "html": "<p>过去分词形容词来自于 <a title=\"Etymology, meaning and definition of feed \" class=\"crossreference notranslate\" href=\"/cn/word/feed\">feed</a>（动词）。<i class=\"foreign notranslate\">Fed up</i> “厌烦的，恶心的，无聊的”是英国俚语，最早记录于1900年（一些早期用法将其与布尔战争联系在一起），并在第一次世界大战期间扩展到美国； 可能源于早期的短语，如 <i class=\"foreign notranslate\">fed up to the back teeth</i>。早期它被用于家畜，“通过饲料喂养变胖”。这个概念可能与 <i class=\"foreign notranslate\">to have had enough</i> “已经够了”是相同的。</p>"
+    },
+    {
+      "title": "feedback<div class=\"pl-2 flex-1 text-textSecondary text-xl font-serif\">(n.)</div>",
+      "html": "<p>1920年，电子学意义上的“将部分输出信号返回到早期阶段的输入”，来自动词短语，源自 <a title=\"Etymology, meaning and definition of feed \" class=\"crossreference notranslate\" href=\"/cn/word/feed\">feed</a>（v.）+ <a title=\"Etymology, meaning and definition of back \" class=\"crossreference notranslate\" href=\"/cn/word/back\">back</a>（adv.）。转义用法，“有关过程结果的信息”可追溯至1955年。</p>"
+    }
+  ]
+}
