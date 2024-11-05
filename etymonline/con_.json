@@ -1,0 +1,110 @@
+{
+  "word": "con",
+  "phonetic": {
+    "uk": "英/ kɒn /",
+    "us": "美/ kɑːn /"
+  },
+  "translations": [],
+  "samples": [
+    {
+      "type": "n.",
+      "translation": "骗局，诈骗钱财；囚犯；反对者；反对的论点；指挥驾船（岗位）；<非正式>（尤指科幻小说迷参加的）会议"
+    },
+    {
+      "type": "v.",
+      "translation": "哄骗，欺骗；指挥（船）的驾驶"
+    },
+    {
+      "type": "adv.",
+      "translation": "（对某事）反对地"
+    },
+    {
+      "type": "",
+      "translation": "【名】 （Con）（英、美、澳、加）措恩（人名）"
+    }
+  ],
+  "exampleType": [
+    "初中/高中/GRE/"
+  ],
+  "distortion": [
+    {
+      "name": "复数",
+      "transformation": "cons"
+    },
+    {
+      "name": "第三人称单数",
+      "transformation": "cons"
+    },
+    {
+      "name": "现在分词",
+      "transformation": "conning"
+    },
+    {
+      "name": "过去式",
+      "transformation": "conned"
+    },
+    {
+      "name": "过去分词",
+      "transformation": "conned"
+    }
+  ],
+  "phrase": [
+    {
+      "en": "Con Air",
+      "translation": "空中监狱 ; 惊天动地 ; 地面监狱 ; 空中牢狱"
+    },
+    {
+      "en": "Comic-Con",
+      "translation": "动漫大会 ; 预告片 ; 动漫展会"
+    },
+    {
+      "en": "Con brio",
+      "translation": "有精神 ; 辉煌灿烂的 ; 热情地"
+    }
+  ],
+  "webtranslate": [
+    {
+      "title": " 对照组",
+      "descrition": "两个试验的日粮处理组设置如下：（1）对照组（CON）;（2）维生素C添加组（VC组）：添加维生素C150mg/kg,不添加β-胡萝卜素;（3）β-胡萝卜素添加组（βC组）：添加β-胡萝卜素350mg..."
+    },
+    {
+      "title": " 体质",
+      "descrition": "体质： 体质（Con）：体质代表人物的健康状况和耐力。高耐力对所有职业都很重要，因为它会影响你在倒下前能承受多少伤害。"
+    },
+    {
+      "title": " 插口",
+      "descrition": "... COAX同轴电缆 CON插口 CRYSTAL晶体整荡器 ..."
+    }
+  ],
+  "bilingualexample": [
+    {
+      "en": "The so-called bargain was just a big con!",
+      "translation": "这种所谓的减价商品只不过是个大骗局！",
+      "source": "《牛津词典》"
+    },
+    {
+      "en": "A few years ago she was the victim of a con man.",
+      "translation": "几年前，她被一个骗子坑了。",
+      "source": "《柯林斯英汉双解大词典》"
+    },
+    {
+      "en": "The so-called bargain was just a big con.",
+      "translation": "这种所谓的减价商品只不过是个大骗局。",
+      "source": ""
+    }
+  ],
+  "dictphrase": [
+    {
+      "en": "con artist",
+      "translation": "骗子；[俚]以花言巧语骗人的人；[俚]过上了舒适懒散生活的人"
+    },
+    {
+      "en": "con man",
+      "translation": "骗子"
+    },
+    {
+      "en": "purchase con",
+      "translation": "货物进口合同"
+    }
+  ]
+}
